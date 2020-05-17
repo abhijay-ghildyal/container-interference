@@ -1,0 +1,18 @@
+{
+    "docker_name": "docker_mnist_4",
+    "model_name": "MNIST_docker4",
+    "num_epoch": 1,
+    "no_cuda": true,
+    "save_model": true,
+    "batch_size": 64,
+    "test_batch_size": 1000,
+    "seed": 99999,
+    "epochs": 15,
+    "lr": 1.0,
+    "gamma": 0.7,
+    "log_interval": 10,
+    "save_model": true,
+    "load_model": false,
+    "load_at_epoch": 1,
+    "model_path": "checkpoints"
+}
