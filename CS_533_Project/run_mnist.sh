@@ -13,7 +13,8 @@ modelName=`cat $1 | jq '.model_name'`
 redis-cli SET `echo $dockerName | xargs` `echo $modelName | xargs`
 
 start=`date +%s`
-docker run --name `echo $dockerName | xargs` --rm -it -v /home/abhijay/CS_533_Project:/workspace pytorch/pytorch python main.py --configFileName $1
+docker run --name `echo $dockerName | xargs` --rm -v /home/abhijay/CS_533_Project:/workspace -v /etc/localtime:/etc/localtime:ro pytorch/pytorch python main.py --configFileName $1
+# docker run --name `echo $dockerName | xargs` --rm -it -v /home/abhijay/CS_533_Project:/workspace pytorch/pytorch python main.py --configFileName $1
 # docker run --name `echo $dockerName | xargs` --rm -it -v /home/abhijay/CS_533_Project:/workspace custom_pytorch_docker python main.py --configFileName $1
 end=`date +%s`
 runtime=$((end-start))

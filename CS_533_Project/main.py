@@ -14,6 +14,8 @@ from base_fns import *
 import json
 import logging
 
+
+
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', filename='logs/main.log', level=logging.INFO)
 
 parser = argparse.ArgumentParser(description='used for getting config file name')
@@ -65,7 +67,7 @@ def main():
         train(config, model, device, train_loader, optimizer, epoch, config["log_interval"], logging)
         if config["save_model"]:
             save_network(model, config["model_path"], config["model_name"], epoch)
-        test(model, device, test_loader)
+        test(config, epoch, model, device, test_loader, logging)
         scheduler.step()
 
     # if args.save_model:

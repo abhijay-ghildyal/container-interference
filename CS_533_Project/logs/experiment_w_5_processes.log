@@ -1,0 +1,1125 @@
+05/26/2020 04:20:40 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [000000/60000 (0%)], Loss: 2.341329, BatchTime:0.0422}
+05/26/2020 04:20:40 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [000640/60000 (1%)], Loss: 1.252060, BatchTime:0.0314}
+05/26/2020 04:20:41 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [001280/60000 (2%)], Loss: 0.897782, BatchTime:0.0388}
+05/25/2020 09:20:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 862.6636760066556}}
+05/26/2020 04:20:41 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [001920/60000 (3%)], Loss: 0.389322, BatchTime:0.0358}
+05/26/2020 04:20:42 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [002560/60000 (4%)], Loss: 0.829957, BatchTime:0.0376}
+05/26/2020 04:20:42 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [003200/60000 (5%)], Loss: 0.368313, BatchTime:0.0378}
+05/26/2020 04:20:43 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [003840/60000 (6%)], Loss: 0.416532, BatchTime:0.0382}
+05/26/2020 04:20:43 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [004480/60000 (7%)], Loss: 0.185343, BatchTime:0.0326}
+05/25/2020 09:20:43 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 881.56296798005}}
+05/26/2020 04:20:43 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [005120/60000 (9%)], Loss: 0.262728, BatchTime:0.0391}
+05/26/2020 04:20:44 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [005760/60000 (10%)], Loss: 0.350438, BatchTime:0.0385}
+05/26/2020 04:20:44 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 1, Progress: [006400/60000 (11%)], Loss: 0.217025, BatchTime:0.0385}
+05/26/2020 04:20:44 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 1, EpochTime:4.680196285247803}
+05/25/2020 09:20:45 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 551.8586670225188}}
+05/25/2020 09:20:47 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 428.14817800664446}}
+05/26/2020 04:20:47 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 1, AverageLoss: 0.2156, Accuracy: 9288/10000 (93%)
+05/26/2020 04:20:47 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [000000/60000 (0%)], Loss: 0.313261, BatchTime:0.0362}
+05/26/2020 04:20:48 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [000640/60000 (1%)], Loss: 0.209787, BatchTime:0.0386}
+05/26/2020 04:20:48 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [001280/60000 (2%)], Loss: 0.092533, BatchTime:0.0315}
+05/26/2020 04:20:49 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [001920/60000 (3%)], Loss: 0.327634, BatchTime:0.0311}
+05/25/2020 09:20:49 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 882.1746498169719}}
+05/26/2020 04:20:49 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [002560/60000 (4%)], Loss: 0.228238, BatchTime:0.0377}
+05/26/2020 04:20:50 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [003200/60000 (5%)], Loss: 0.157668, BatchTime:0.0309}
+05/26/2020 04:20:50 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [003840/60000 (6%)], Loss: 0.149531, BatchTime:0.0314}
+05/26/2020 04:20:50 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [004480/60000 (7%)], Loss: 0.265284, BatchTime:0.0309}
+05/26/2020 04:20:51 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [005120/60000 (9%)], Loss: 0.187295, BatchTime:0.0313}
+05/25/2020 09:20:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 924.5385927999998}}
+05/26/2020 04:20:51 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [005760/60000 (10%)], Loss: 0.206598, BatchTime:0.0394}
+05/26/2020 04:20:52 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 2, Progress: [006400/60000 (11%)], Loss: 0.217956, BatchTime:0.0380}
+05/26/2020 04:20:52 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 2, EpochTime:4.389811992645264}
+05/25/2020 09:20:53 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 439.9665371760798}}
+05/26/2020 04:20:55 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 2, AverageLoss: 0.0952, Accuracy: 9709/10000 (97%)
+05/26/2020 04:20:55 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [000000/60000 (0%)], Loss: 0.266415, BatchTime:0.0348}
+05/25/2020 09:20:55 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 593.0863500500834}}
+05/26/2020 04:20:55 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [000640/60000 (1%)], Loss: 0.085481, BatchTime:0.0384}
+05/26/2020 04:20:56 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [001280/60000 (2%)], Loss: 0.363471, BatchTime:0.0312}
+05/26/2020 04:20:56 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [001920/60000 (3%)], Loss: 0.165986, BatchTime:0.0382}
+05/26/2020 04:20:57 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [002560/60000 (4%)], Loss: 0.120662, BatchTime:0.0384}
+05/25/2020 09:20:57 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 850.8489984437086}}
+05/26/2020 04:20:57 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [003200/60000 (5%)], Loss: 0.182707, BatchTime:0.0380}
+05/26/2020 04:20:58 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [003840/60000 (6%)], Loss: 0.139998, BatchTime:0.0399}
+05/26/2020 04:20:58 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [004480/60000 (7%)], Loss: 0.049647, BatchTime:0.0383}
+05/26/2020 04:20:59 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [005120/60000 (9%)], Loss: 0.212457, BatchTime:0.0411}
+05/25/2020 09:20:59 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 852.9462672757477}}
+05/26/2020 04:20:59 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [005760/60000 (10%)], Loss: 0.049341, BatchTime:0.0395}
+05/26/2020 04:21:00 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 3, Progress: [006400/60000 (11%)], Loss: 0.085430, BatchTime:0.0425}
+05/26/2020 04:21:00 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 3, EpochTime:5.012207269668579}
+05/25/2020 09:21:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 421.6455688778055}}
+05/26/2020 04:21:02 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [000000/60000 (0%)], Loss: 2.341329, BatchTime:0.0532}
+05/26/2020 04:21:02 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [000640/60000 (1%)], Loss: 1.252060, BatchTime:0.1098}
+05/26/2020 04:21:03 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [001280/60000 (2%)], Loss: 0.897782, BatchTime:0.0736}
+05/26/2020 04:21:04 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 3, AverageLoss: 0.0823, Accuracy: 9737/10000 (97%)
+05/26/2020 04:21:04 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [000000/60000 (0%)], Loss: 0.089707, BatchTime:0.0913}
+05/26/2020 04:21:04 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [001920/60000 (3%)], Loss: 0.389322, BatchTime:0.0984}
+05/26/2020 04:21:05 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [000640/60000 (1%)], Loss: 0.209485, BatchTime:0.0966}
+05/25/2020 09:21:05 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 424.8997602651201, 'docker_mnist_2': 593.3564566860948}}
+05/26/2020 04:21:05 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [002560/60000 (4%)], Loss: 0.829957, BatchTime:0.1145}
+05/26/2020 04:21:06 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [001280/60000 (2%)], Loss: 0.127725, BatchTime:0.1151}
+05/26/2020 04:21:06 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [003200/60000 (5%)], Loss: 0.368313, BatchTime:0.0964}
+05/26/2020 04:21:07 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [001920/60000 (3%)], Loss: 0.232478, BatchTime:0.1101}
+05/26/2020 04:21:07 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [003840/60000 (6%)], Loss: 0.416532, BatchTime:0.0856}
+05/26/2020 04:21:08 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [002560/60000 (4%)], Loss: 0.142715, BatchTime:0.0849}
+05/26/2020 04:21:09 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [004480/60000 (7%)], Loss: 0.185343, BatchTime:0.1059}
+05/25/2020 09:21:09 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 598.0642774979149, 'docker_mnist_2': 588.7921778482068}}
+05/26/2020 04:21:10 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [003200/60000 (5%)], Loss: 0.247825, BatchTime:0.1240}
+05/26/2020 04:21:10 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [005120/60000 (9%)], Loss: 0.262728, BatchTime:0.1116}
+05/26/2020 04:21:11 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [003840/60000 (6%)], Loss: 0.147245, BatchTime:0.0810}
+05/26/2020 04:21:11 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [005760/60000 (10%)], Loss: 0.350438, BatchTime:0.1085}
+05/26/2020 04:21:12 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [004480/60000 (7%)], Loss: 0.203832, BatchTime:0.1511}
+05/26/2020 04:21:12 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 1, Progress: [006400/60000 (11%)], Loss: 0.217025, BatchTime:0.1324}
+05/26/2020 04:21:12 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 1, EpochTime:10.606403589248657}
+05/26/2020 04:21:13 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [005120/60000 (9%)], Loss: 0.283803, BatchTime:0.0408}
+05/25/2020 09:21:13 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 598.098782852377, 'docker_mnist_2': 378.515166373444}}
+05/26/2020 04:21:14 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [005760/60000 (10%)], Loss: 0.063773, BatchTime:0.0685}
+05/26/2020 04:21:14 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 4, Progress: [006400/60000 (11%)], Loss: 0.061537, BatchTime:0.0596}
+05/26/2020 04:21:14 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 4, EpochTime:10.668290376663208}
+05/26/2020 04:21:16 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 1, AverageLoss: 0.2156, Accuracy: 9288/10000 (93%)
+05/26/2020 04:21:17 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [000000/60000 (0%)], Loss: 0.313261, BatchTime:0.0400}
+05/25/2020 09:21:17 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 496.895277218543, 'docker_mnist_2': 657.3980449328859}}
+05/26/2020 04:21:17 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [000640/60000 (1%)], Loss: 0.209787, BatchTime:0.0404}
+05/26/2020 04:21:18 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [001280/60000 (2%)], Loss: 0.092533, BatchTime:0.0725}
+05/26/2020 04:21:19 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 4, AverageLoss: 0.0740, Accuracy: 9774/10000 (98%)
+05/26/2020 04:21:19 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [000000/60000 (0%)], Loss: 0.031773, BatchTime:0.0822}
+05/26/2020 04:21:19 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [001920/60000 (3%)], Loss: 0.327634, BatchTime:0.0791}
+05/26/2020 04:21:20 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [000640/60000 (1%)], Loss: 0.139453, BatchTime:0.1041}
+05/26/2020 04:21:21 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [002560/60000 (4%)], Loss: 0.228238, BatchTime:0.0972}
+05/25/2020 09:21:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 520.3375755684647, 'docker_mnist_2': 516.1109162790699}}
+05/26/2020 04:21:22 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [000000/60000 (0%)], Loss: 2.341329, BatchTime:0.8081}
+05/26/2020 04:21:24 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [001280/60000 (2%)], Loss: 0.111362, BatchTime:0.3810}
+05/26/2020 04:21:24 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [003200/60000 (5%)], Loss: 0.157668, BatchTime:0.3136}
+05/26/2020 04:21:26 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [000640/60000 (1%)], Loss: 1.252060, BatchTime:0.4281}
+05/25/2020 09:21:27 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 373.80965349999997, 'docker_mnist_2': 400.96411219999993, 'docker_mnist_3': 365.222960957886}}
+05/26/2020 04:21:28 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [001920/60000 (3%)], Loss: 0.104598, BatchTime:0.3440}
+05/26/2020 04:21:28 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [003840/60000 (6%)], Loss: 0.149531, BatchTime:0.3483}
+05/26/2020 04:21:30 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [001280/60000 (2%)], Loss: 0.897782, BatchTime:0.2099}
+05/26/2020 04:21:31 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [002560/60000 (4%)], Loss: 0.089778, BatchTime:0.2525}
+05/26/2020 04:21:33 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [004480/60000 (7%)], Loss: 0.265284, BatchTime:0.3719}
+05/25/2020 09:21:33 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 408.10492550000004, 'docker_mnist_2': 387.4927628, 'docker_mnist_3': 386.8701117012448}}
+05/26/2020 04:21:34 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [001920/60000 (3%)], Loss: 0.389322, BatchTime:0.5875}
+05/26/2020 04:21:35 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [003200/60000 (5%)], Loss: 0.129203, BatchTime:0.2410}
+05/26/2020 04:21:37 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [005120/60000 (9%)], Loss: 0.187295, BatchTime:0.4742}
+05/26/2020 04:21:38 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [002560/60000 (4%)], Loss: 0.829957, BatchTime:0.4430}
+05/26/2020 04:21:39 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [003840/60000 (6%)], Loss: 0.060932, BatchTime:0.6234}
+05/25/2020 09:21:39 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 425.1163144954129, 'docker_mnist_2': 391.2038635, 'docker_mnist_3': 375.30385404149376}}
+05/26/2020 04:21:43 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [005760/60000 (10%)], Loss: 0.206598, BatchTime:0.7753}
+05/26/2020 04:21:43 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [000000/60000 (0%)], Loss: 2.341329, BatchTime:1.1777}
+05/26/2020 04:21:43 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [003200/60000 (5%)], Loss: 0.368313, BatchTime:1.1227}
+05/25/2020 09:21:45 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 378.71613104477615, 'docker_mnist_2': 306.5339153, 'docker_mnist_3': 314.5957573}}
+05/26/2020 04:21:47 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [004480/60000 (7%)], Loss: 0.061380, BatchTime:0.8982}
+05/26/2020 04:21:52 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [003840/60000 (6%)], Loss: 0.416532, BatchTime:0.5796}
+05/26/2020 04:21:52 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 2, Progress: [006400/60000 (11%)], Loss: 0.217956, BatchTime:0.8462}
+05/26/2020 04:21:52 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [000640/60000 (1%)], Loss: 1.252060, BatchTime:1.3509}
+05/26/2020 04:21:53 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 2, EpochTime:36.51192593574524}
+05/25/2020 09:21:53 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 293.7757692946058, 'docker_mnist_2': 290.0360486071727, 'docker_mnist_3': 315.01019383084576, 'docker_mnist_4': 285.53287836530444}}
+05/26/2020 04:21:55 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [005120/60000 (9%)], Loss: 0.196317, BatchTime:1.0213}
+05/26/2020 04:22:00 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 2, AverageLoss: 0.0952, Accuracy: 9709/10000 (97%)
+05/26/2020 04:22:01 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [004480/60000 (7%)], Loss: 0.185343, BatchTime:1.0069}
+05/25/2020 09:22:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 295.823352, 'docker_mnist_2': 275.5959304232365, 'docker_mnist_3': 311.4742908, 'docker_mnist_4': 296.6560177}}
+05/26/2020 04:22:01 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [000000/60000 (0%)], Loss: 0.266415, BatchTime:0.8944}
+05/26/2020 04:22:03 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [001280/60000 (2%)], Loss: 0.897782, BatchTime:1.3336}
+05/26/2020 04:22:04 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [000000/60000 (0%)], Loss: 2.341329, BatchTime:1.0624}
+05/26/2020 04:22:08 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [005760/60000 (10%)], Loss: 0.210325, BatchTime:1.4040}
+05/25/2020 09:22:09 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 276.09944845771145, 'docker_mnist_2': 245.46874019999996, 'docker_mnist_3': 246.2061925271059, 'docker_mnist_4': 241.05143840663902}}
+05/26/2020 04:22:14 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [005120/60000 (9%)], Loss: 0.262728, BatchTime:1.2028}
+05/26/2020 04:22:18 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [000640/60000 (1%)], Loss: 0.085481, BatchTime:1.9209}
+05/26/2020 04:22:18 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [001920/60000 (3%)], Loss: 0.389322, BatchTime:1.3911}
+05/26/2020 04:22:18 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [000640/60000 (1%)], Loss: 1.252060, BatchTime:1.5855}
+05/25/2020 09:22:19 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 261.5028674, 'docker_mnist_2': 266.45510509543567, 'docker_mnist_3': 235.6060037635304, 'docker_mnist_4': 247.6129964, 'docker_mnist_5': 238.96197301244817}}
+05/26/2020 04:22:23 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 5, Progress: [006400/60000 (11%)], Loss: 0.044024, BatchTime:1.4938}
+05/26/2020 04:22:25 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 5, EpochTime:66.16381049156189}
+05/26/2020 04:22:28 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [005760/60000 (10%)], Loss: 0.350438, BatchTime:1.5689}
+05/25/2020 09:22:29 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 254.76506417985013, 'docker_mnist_2': 256.6207293609958, 'docker_mnist_3': 269.05528703919936, 'docker_mnist_4': 239.47829054211843, 'docker_mnist_5': 243.96122788381743}}
+05/26/2020 04:22:32 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [001280/60000 (2%)], Loss: 0.897782, BatchTime:1.2240}
+05/26/2020 04:22:32 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [002560/60000 (4%)], Loss: 0.829957, BatchTime:1.1951}
+05/26/2020 04:22:32 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [001280/60000 (2%)], Loss: 0.363471, BatchTime:1.4281}
+05/26/2020 04:22:34 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 5, AverageLoss: 0.0609, Accuracy: 9809/10000 (98%)
+05/26/2020 04:22:35 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [000000/60000 (0%)], Loss: 0.184363, BatchTime:1.3756}
+05/25/2020 09:22:39 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 201.43830235195998, 'docker_mnist_2': 250.83693801831805, 'docker_mnist_3': 202.92292073029046, 'docker_mnist_4': 232.60640919999997, 'docker_mnist_5': 235.84615259751035}}
+05/26/2020 04:22:42 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 1, Progress: [006400/60000 (11%)], Loss: 0.217025, BatchTime:1.5658}
+05/26/2020 04:22:43 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 1, EpochTime:82.33364295959473}
+05/26/2020 04:22:45 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [001920/60000 (3%)], Loss: 0.165986, BatchTime:0.9360}
+05/26/2020 04:22:45 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [001920/60000 (3%)], Loss: 0.389322, BatchTime:1.0686}
+05/26/2020 04:22:47 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [003200/60000 (5%)], Loss: 0.368313, BatchTime:1.4752}
+05/25/2020 09:22:49 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 242.8670475, 'docker_mnist_2': 246.8006854378649, 'docker_mnist_3': 225.0441695681063, 'docker_mnist_4': 226.06310209999998, 'docker_mnist_5': 266.1396894}}
+05/26/2020 04:22:50 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [000640/60000 (1%)], Loss: 0.061234, BatchTime:1.1889}
+05/26/2020 04:22:52 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 1, AverageLoss: 0.2156, Accuracy: 9288/10000 (93%)
+05/26/2020 04:22:54 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [000000/60000 (0%)], Loss: 0.313261, BatchTime:1.5235}
+05/26/2020 04:22:59 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [002560/60000 (4%)], Loss: 0.120662, BatchTime:1.0074}
+05/25/2020 09:22:59 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 259.3546028, 'docker_mnist_2': 239.64362160000002, 'docker_mnist_3': 236.41370192691028, 'docker_mnist_4': 242.0400688, 'docker_mnist_5': 228.78908230000002}}
+05/26/2020 04:23:00 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [002560/60000 (4%)], Loss: 0.829957, BatchTime:1.5265}
+05/26/2020 04:23:01 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [003840/60000 (6%)], Loss: 0.416532, BatchTime:1.3574}
+05/26/2020 04:23:04 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [001280/60000 (2%)], Loss: 0.105202, BatchTime:1.4911}
+05/26/2020 04:23:08 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [000640/60000 (1%)], Loss: 0.209787, BatchTime:1.7188}
+05/25/2020 09:23:09 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 263.0512741244813, 'docker_mnist_2': 230.30436209825146, 'docker_mnist_3': 256.2435556, 'docker_mnist_4': 241.75023570000002, 'docker_mnist_5': 237.57843459999998}}
+05/26/2020 04:23:12 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [003200/60000 (5%)], Loss: 0.182707, BatchTime:1.4587}
+05/26/2020 04:23:14 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [003200/60000 (5%)], Loss: 0.368313, BatchTime:1.5838}
+05/26/2020 04:23:16 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [004480/60000 (7%)], Loss: 0.185343, BatchTime:1.7946}
+05/26/2020 04:23:19 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [001920/60000 (3%)], Loss: 0.018360, BatchTime:1.4349}
+05/25/2020 09:23:19 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 240.0895937614679, 'docker_mnist_2': 245.61250544850498, 'docker_mnist_3': 256.8582443, 'docker_mnist_4': 247.69071359999998, 'docker_mnist_5': 245.85830429875517}}
+05/26/2020 04:23:21 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [001280/60000 (2%)], Loss: 0.092533, BatchTime:1.3047}
+05/26/2020 04:23:27 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [003840/60000 (6%)], Loss: 0.139998, BatchTime:1.4192}
+05/25/2020 09:23:29 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 240.73080388381743, 'docker_mnist_2': 256.3823319, 'docker_mnist_3': 245.06625668056714, 'docker_mnist_4': 247.6809922268557, 'docker_mnist_5': 228.5874068942548}}
+05/26/2020 04:23:30 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [005120/60000 (9%)], Loss: 0.262728, BatchTime:1.5577}
+05/26/2020 04:23:30 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [003840/60000 (6%)], Loss: 0.416532, BatchTime:1.5115}
+05/26/2020 04:23:33 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [002560/60000 (4%)], Loss: 0.185447, BatchTime:1.3948}
+05/26/2020 04:23:35 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [001920/60000 (3%)], Loss: 0.327634, BatchTime:1.3953}
+05/25/2020 09:23:39 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 236.8788009966777, 'docker_mnist_2': 246.3601708, 'docker_mnist_3': 252.87109800000002, 'docker_mnist_4': 221.79288268879668, 'docker_mnist_5': 238.6179383}}
+05/26/2020 04:23:42 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [004480/60000 (7%)], Loss: 0.049647, BatchTime:1.6239}
+05/26/2020 04:23:44 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [004480/60000 (7%)], Loss: 0.185343, BatchTime:1.2632}
+05/26/2020 04:23:45 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [005760/60000 (10%)], Loss: 0.350438, BatchTime:1.3737}
+05/26/2020 04:23:47 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [003200/60000 (5%)], Loss: 0.093320, BatchTime:1.5151}
+05/26/2020 04:23:48 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [002560/60000 (4%)], Loss: 0.228238, BatchTime:1.3921}
+05/25/2020 09:23:49 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 245.90060185892116, 'docker_mnist_2': 245.69662919999996, 'docker_mnist_3': 251.5497441, 'docker_mnist_4': 237.08401125311204, 'docker_mnist_5': 231.26330398001664}}
+05/26/2020 04:23:57 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [005120/60000 (9%)], Loss: 0.212457, BatchTime:1.2063}
+05/26/2020 04:23:59 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [005120/60000 (9%)], Loss: 0.262728, BatchTime:0.9714}
+05/25/2020 09:23:59 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 194.72003212624585, 'docker_mnist_2': 224.18160199170126, 'docker_mnist_3': 209.81421552039967, 'docker_mnist_4': 242.3765154704413, 'docker_mnist_5': 258.7510418181818}}
+05/26/2020 04:24:00 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 1, Progress: [006400/60000 (11%)], Loss: 0.217025, BatchTime:1.5268}
+05/26/2020 04:24:01 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 1, EpochTime:139.58142066001892}
+05/26/2020 04:24:02 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [003200/60000 (5%)], Loss: 0.157668, BatchTime:1.2212}
+05/26/2020 04:24:03 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [003840/60000 (6%)], Loss: 0.078054, BatchTime:1.5923}
+05/25/2020 09:24:09 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 259.56434459999997, 'docker_mnist_2': 239.9821988, 'docker_mnist_3': 247.60690305647842, 'docker_mnist_4': 221.0641295681063, 'docker_mnist_5': 244.0608909758132}}
+05/26/2020 04:24:10 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 1, AverageLoss: 0.2156, Accuracy: 9288/10000 (93%)
+05/26/2020 04:24:11 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [005760/60000 (10%)], Loss: 0.049341, BatchTime:1.2069}
+05/26/2020 04:24:12 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [000000/60000 (0%)], Loss: 0.313261, BatchTime:1.2755}
+05/26/2020 04:24:13 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [005760/60000 (10%)], Loss: 0.350438, BatchTime:0.9517}
+05/26/2020 04:24:16 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [003840/60000 (6%)], Loss: 0.149531, BatchTime:1.2945}
+05/26/2020 04:24:19 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [004480/60000 (7%)], Loss: 0.077966, BatchTime:1.5141}
+05/25/2020 09:24:19 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 261.8074485619835, 'docker_mnist_2': 224.07209334445372, 'docker_mnist_3': 232.18992019933557, 'docker_mnist_4': 246.2863799499583, 'docker_mnist_5': 237.4896768}}
+05/26/2020 04:24:27 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 3, Progress: [006400/60000 (11%)], Loss: 0.085430, BatchTime:1.6264}
+05/26/2020 04:24:27 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 1, Progress: [006400/60000 (11%)], Loss: 0.217025, BatchTime:1.5981}
+05/26/2020 04:24:27 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [000640/60000 (1%)], Loss: 0.209787, BatchTime:1.5145}
+05/26/2020 04:24:28 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 1, EpochTime:145.28055691719055}
+05/26/2020 04:24:28 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 3, EpochTime:147.68256282806396}
+05/25/2020 09:24:29 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 243.58571531950207, 'docker_mnist_2': 246.2563793494579, 'docker_mnist_3': 235.7694357, 'docker_mnist_4': 239.3848752238806, 'docker_mnist_5': 204.33083520399668}}
+05/26/2020 04:24:31 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [004480/60000 (7%)], Loss: 0.265284, BatchTime:1.3594}
+05/26/2020 04:24:32 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [005120/60000 (9%)], Loss: 0.208537, BatchTime:1.6549}
+05/26/2020 04:24:38 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 1, AverageLoss: 0.2156, Accuracy: 9288/10000 (93%)
+05/26/2020 04:24:38 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 3, AverageLoss: 0.0823, Accuracy: 9737/10000 (97%)
+05/26/2020 04:24:39 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [000000/60000 (0%)], Loss: 0.313261, BatchTime:1.1139}
+05/26/2020 04:24:39 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [000000/60000 (0%)], Loss: 0.089707, BatchTime:0.9997}
+05/25/2020 09:24:39 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 248.8849555, 'docker_mnist_2': 227.34776319999997, 'docker_mnist_3': 306.7096711926606, 'docker_mnist_4': 221.94848215767632, 'docker_mnist_5': 244.76843701244815}}
+05/26/2020 04:24:41 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [001280/60000 (2%)], Loss: 0.092533, BatchTime:1.3185}
+05/26/2020 04:24:44 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [005120/60000 (9%)], Loss: 0.187295, BatchTime:1.3536}
+05/26/2020 04:24:46 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [005760/60000 (10%)], Loss: 0.220770, BatchTime:1.4159}
+05/25/2020 09:24:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 234.7317791, 'docker_mnist_2': 224.87465829999996, 'docker_mnist_3': 219.6502327363184, 'docker_mnist_4': 256.27586887593674, 'docker_mnist_5': 258.9095709242298}}
+05/26/2020 04:24:53 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [000640/60000 (1%)], Loss: 0.209787, BatchTime:1.5415}
+05/26/2020 04:24:54 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [000640/60000 (1%)], Loss: 0.209485, BatchTime:1.6115}
+05/26/2020 04:24:55 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [001920/60000 (3%)], Loss: 0.327634, BatchTime:1.3229}
+05/26/2020 04:24:57 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [005760/60000 (10%)], Loss: 0.206598, BatchTime:1.4024}
+05/25/2020 09:25:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 222.55128089626555, 'docker_mnist_2': 235.726942, 'docker_mnist_3': 233.54779939999997, 'docker_mnist_4': 230.53166260580912, 'docker_mnist_5': 251.2917241}}
+05/26/2020 04:25:03 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 6, Progress: [006400/60000 (11%)], Loss: 0.172132, BatchTime:1.7807}
+05/26/2020 04:25:04 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 6, EpochTime:150.72393226623535}
+05/26/2020 04:25:06 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [001280/60000 (2%)], Loss: 0.092533, BatchTime:1.4192}
+05/26/2020 04:25:08 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [001280/60000 (2%)], Loss: 0.127725, BatchTime:1.7888}
+05/26/2020 04:25:08 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [002560/60000 (4%)], Loss: 0.228238, BatchTime:1.5476}
+05/25/2020 09:25:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 230.8978168, 'docker_mnist_2': 251.09634891286305, 'docker_mnist_3': 241.1228293355482, 'docker_mnist_4': 240.3162198, 'docker_mnist_5': 244.35264040033363}}
+05/26/2020 04:25:10 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 2, Progress: [006400/60000 (11%)], Loss: 0.217956, BatchTime:1.1324}
+05/26/2020 04:25:11 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 2, EpochTime:139.1805293560028}
+05/26/2020 04:25:14 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 6, AverageLoss: 0.0594, Accuracy: 9822/10000 (98%)
+05/26/2020 04:25:16 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [000000/60000 (0%)], Loss: 0.126840, BatchTime:1.5858}
+05/25/2020 09:25:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 244.87033631359466, 'docker_mnist_2': 226.82995717842323, 'docker_mnist_3': 227.93710499999997, 'docker_mnist_4': 236.0913719900083, 'docker_mnist_5': 226.85265121588088}}
+05/26/2020 04:25:20 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [001920/60000 (3%)], Loss: 0.327634, BatchTime:1.4357}
+05/26/2020 04:25:21 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 2, AverageLoss: 0.0952, Accuracy: 9709/10000 (97%)
+05/26/2020 04:25:22 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [000000/60000 (0%)], Loss: 0.266415, BatchTime:1.3497}
+05/26/2020 04:25:24 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [001920/60000 (3%)], Loss: 0.232478, BatchTime:1.2484}
+05/26/2020 04:25:25 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [003200/60000 (5%)], Loss: 0.157668, BatchTime:1.2447}
+05/26/2020 04:25:29 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [000640/60000 (1%)], Loss: 0.062039, BatchTime:1.4820}
+05/25/2020 09:25:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 229.05723266390038, 'docker_mnist_2': 237.65851548547715, 'docker_mnist_3': 231.781223, 'docker_mnist_4': 251.1259642, 'docker_mnist_5': 245.77513633195022}}
+05/26/2020 04:25:33 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [002560/60000 (4%)], Loss: 0.228238, BatchTime:1.7298}
+05/26/2020 04:25:36 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [000640/60000 (1%)], Loss: 0.085481, BatchTime:1.7157}
+05/26/2020 04:25:38 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [002560/60000 (4%)], Loss: 0.142715, BatchTime:1.2683}
+05/25/2020 09:25:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 243.53533080000003, 'docker_mnist_2': 238.14669112406324, 'docker_mnist_3': 233.48098376763488, 'docker_mnist_4': 244.1567189324437, 'docker_mnist_5': 234.5891173}}
+05/26/2020 04:25:40 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [003840/60000 (6%)], Loss: 0.149531, BatchTime:1.7465}
+05/26/2020 04:25:44 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [001280/60000 (2%)], Loss: 0.073080, BatchTime:1.3504}
+05/26/2020 04:25:49 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [001280/60000 (2%)], Loss: 0.363471, BatchTime:1.1938}
+05/25/2020 09:25:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 240.2037457593361, 'docker_mnist_2': 252.4785807826811, 'docker_mnist_3': 241.62713307883814, 'docker_mnist_4': 257.2932936, 'docker_mnist_5': 253.41245114261883}}
+05/26/2020 04:25:50 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [003200/60000 (5%)], Loss: 0.157668, BatchTime:1.3540}
+05/26/2020 04:25:53 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [003200/60000 (5%)], Loss: 0.247825, BatchTime:1.4715}
+05/26/2020 04:25:54 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [004480/60000 (7%)], Loss: 0.265284, BatchTime:1.2869}
+05/26/2020 04:25:58 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [001920/60000 (3%)], Loss: 0.105172, BatchTime:1.2423}
+05/25/2020 09:26:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 262.4986358, 'docker_mnist_2': 228.99257054726368, 'docker_mnist_3': 224.0136083, 'docker_mnist_4': 247.45009129999997, 'docker_mnist_5': 244.13618519502074}}
+05/26/2020 04:26:04 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [001920/60000 (3%)], Loss: 0.165986, BatchTime:1.8481}
+05/26/2020 04:26:05 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [003840/60000 (6%)], Loss: 0.149531, BatchTime:1.4228}
+05/26/2020 04:26:07 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [003840/60000 (6%)], Loss: 0.147245, BatchTime:1.5670}
+05/26/2020 04:26:07 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [005120/60000 (9%)], Loss: 0.187295, BatchTime:1.2042}
+05/25/2020 09:26:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 240.3635362468724, 'docker_mnist_2': 236.76739966638866, 'docker_mnist_3': 238.05630069767443, 'docker_mnist_4': 238.22915174129355, 'docker_mnist_5': 243.5618538115096}}
+05/26/2020 04:26:13 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [002560/60000 (4%)], Loss: 0.051525, BatchTime:1.3407}
+05/26/2020 04:26:19 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [002560/60000 (4%)], Loss: 0.120662, BatchTime:1.6147}
+05/26/2020 04:26:20 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [005760/60000 (10%)], Loss: 0.206598, BatchTime:1.6264}
+05/25/2020 09:26:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 211.81043039999997, 'docker_mnist_2': 230.76053427385892, 'docker_mnist_3': 240.3317561, 'docker_mnist_4': 240.2934568473728, 'docker_mnist_5': 237.38000236864053}}
+05/26/2020 04:26:20 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [004480/60000 (7%)], Loss: 0.265284, BatchTime:1.4153}
+05/26/2020 04:26:21 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [004480/60000 (7%)], Loss: 0.203832, BatchTime:1.2028}
+05/26/2020 04:26:28 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [003200/60000 (5%)], Loss: 0.306972, BatchTime:1.3748}
+05/25/2020 09:26:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 259.7835264, 'docker_mnist_2': 241.50921729460583, 'docker_mnist_3': 258.1765592, 'docker_mnist_4': 228.541917, 'docker_mnist_5': 244.7031753488372}}
+05/26/2020 04:26:33 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [003200/60000 (5%)], Loss: 0.182707, BatchTime:1.1872}
+05/26/2020 04:26:34 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [005120/60000 (9%)], Loss: 0.187295, BatchTime:1.2338}
+05/26/2020 04:26:35 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 2, Progress: [006400/60000 (11%)], Loss: 0.217956, BatchTime:0.9641}
+05/26/2020 04:26:36 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [005120/60000 (9%)], Loss: 0.283803, BatchTime:1.4274}
+05/26/2020 04:26:36 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 2, EpochTime:145.88477993011475}
+05/25/2020 09:26:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 255.1994637, 'docker_mnist_2': 241.11290960000002, 'docker_mnist_3': 242.15120591362125, 'docker_mnist_4': 220.99355860465118, 'docker_mnist_5': 244.8800013}}
+05/26/2020 04:26:42 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [003840/60000 (6%)], Loss: 0.040477, BatchTime:1.4871}
+05/26/2020 04:26:45 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 2, AverageLoss: 0.0952, Accuracy: 9709/10000 (97%)
+05/26/2020 04:26:46 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [003840/60000 (6%)], Loss: 0.139998, BatchTime:1.1208}
+05/26/2020 04:26:47 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [000000/60000 (0%)], Loss: 0.266415, BatchTime:1.4135}
+05/26/2020 04:26:48 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [005760/60000 (10%)], Loss: 0.063773, BatchTime:1.4350}
+05/26/2020 04:26:49 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [005760/60000 (10%)], Loss: 0.206598, BatchTime:1.3194}
+05/25/2020 09:26:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 245.59290154356847, 'docker_mnist_2': 252.9683969025812, 'docker_mnist_3': 227.90656804003333, 'docker_mnist_4': 251.98465752697098, 'docker_mnist_5': 228.62212093411176}}
+05/26/2020 04:26:57 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [004480/60000 (7%)], Loss: 0.065624, BatchTime:1.4661}
+05/26/2020 04:27:00 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [004480/60000 (7%)], Loss: 0.049647, BatchTime:1.5589}
+05/25/2020 09:27:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 235.77834439999998, 'docker_mnist_2': 243.86563807468877, 'docker_mnist_3': 239.2861438, 'docker_mnist_4': 232.315409, 'docker_mnist_5': 244.67752794019933}}
+05/26/2020 04:27:02 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [000640/60000 (1%)], Loss: 0.085481, BatchTime:1.3632}
+05/26/2020 04:27:02 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 4, Progress: [006400/60000 (11%)], Loss: 0.061537, BatchTime:1.2034}
+05/26/2020 04:27:04 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 4, EpochTime:145.30791974067688}
+05/26/2020 04:27:04 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 2, Progress: [006400/60000 (11%)], Loss: 0.217956, BatchTime:1.3185}
+05/26/2020 04:27:06 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 2, EpochTime:148.26558756828308}
+05/25/2020 09:27:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 247.4074764029975, 'docker_mnist_2': 220.2412277178423, 'docker_mnist_3': 252.0798064, 'docker_mnist_4': 244.14700773978313, 'docker_mnist_5': 210.69961991701246}}
+05/26/2020 04:27:10 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [005120/60000 (9%)], Loss: 0.115958, BatchTime:1.2351}
+05/26/2020 04:27:13 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 4, AverageLoss: 0.0740, Accuracy: 9774/10000 (98%)
+05/26/2020 04:27:14 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [005120/60000 (9%)], Loss: 0.212457, BatchTime:0.6758}
+05/26/2020 04:27:15 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [000000/60000 (0%)], Loss: 0.031773, BatchTime:1.4788}
+05/26/2020 04:27:15 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 2, AverageLoss: 0.0952, Accuracy: 9709/10000 (97%)
+05/26/2020 04:27:16 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [001280/60000 (2%)], Loss: 0.363471, BatchTime:1.2860}
+05/26/2020 04:27:16 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [000000/60000 (0%)], Loss: 0.266415, BatchTime:1.2697}
+05/25/2020 09:27:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 234.89504122923586, 'docker_mnist_2': 231.8347588704319, 'docker_mnist_3': 245.25964180000003, 'docker_mnist_4': 239.48915770000002, 'docker_mnist_5': 248.97684627385894}}
+05/26/2020 04:27:25 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [005760/60000 (10%)], Loss: 0.096909, BatchTime:1.4865}
+05/26/2020 04:27:28 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [005760/60000 (10%)], Loss: 0.049341, BatchTime:1.4588}
+05/26/2020 04:27:28 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [000640/60000 (1%)], Loss: 0.139453, BatchTime:1.2269}
+05/25/2020 09:27:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 221.31581869999997, 'docker_mnist_2': 237.5962081395349, 'docker_mnist_3': 250.6999055, 'docker_mnist_4': 219.9828938, 'docker_mnist_5': 241.27523273029044}}
+05/26/2020 04:27:30 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [001920/60000 (3%)], Loss: 0.165986, BatchTime:0.9385}
+05/26/2020 04:27:31 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [000640/60000 (1%)], Loss: 0.085481, BatchTime:1.2879}
+05/26/2020 04:27:40 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 7, Progress: [006400/60000 (11%)], Loss: 0.125535, BatchTime:1.3233}
+05/25/2020 09:27:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 250.06564780000002, 'docker_mnist_2': 243.32065678601165, 'docker_mnist_3': 258.0979345394191, 'docker_mnist_4': 247.33006348623854, 'docker_mnist_5': 260.9744787385892}}
+05/26/2020 04:27:41 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 3, Progress: [006400/60000 (11%)], Loss: 0.085430, BatchTime:1.7225}
+05/26/2020 04:27:41 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 7, EpochTime:147.23787713050842}
+05/26/2020 04:27:42 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [001280/60000 (2%)], Loss: 0.111362, BatchTime:1.4092}
+05/26/2020 04:27:42 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 3, EpochTime:141.46454548835754}
+05/26/2020 04:27:43 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [002560/60000 (4%)], Loss: 0.120662, BatchTime:1.2336}
+05/26/2020 04:27:44 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [001280/60000 (2%)], Loss: 0.363471, BatchTime:1.5758}
+05/25/2020 09:27:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 212.34965765975105, 'docker_mnist_2': 246.23755120331953, 'docker_mnist_3': 216.695536, 'docker_mnist_4': 244.5182007673061, 'docker_mnist_5': 258.1454077344398}}
+05/26/2020 04:27:51 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 7, AverageLoss: 0.0582, Accuracy: 9824/10000 (98%)
+05/26/2020 04:27:52 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 3, AverageLoss: 0.0823, Accuracy: 9737/10000 (97%)
+05/26/2020 04:27:52 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [000000/60000 (0%)], Loss: 0.071398, BatchTime:1.3731}
+05/26/2020 04:27:53 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [000000/60000 (0%)], Loss: 0.089707, BatchTime:1.3186}
+05/26/2020 04:27:56 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [001920/60000 (3%)], Loss: 0.104598, BatchTime:1.2583}
+05/26/2020 04:27:56 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [001920/60000 (3%)], Loss: 0.165986, BatchTime:0.8027}
+05/26/2020 04:27:56 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [003200/60000 (5%)], Loss: 0.182707, BatchTime:1.2623}
+05/25/2020 09:28:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 235.9821467551867, 'docker_mnist_2': 260.2540973144287, 'docker_mnist_3': 246.3295559, 'docker_mnist_4': 230.75119166112955, 'docker_mnist_5': 228.5312002}}
+05/26/2020 04:28:05 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [000640/60000 (1%)], Loss: 0.048411, BatchTime:1.3709}
+05/26/2020 04:28:06 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [000640/60000 (1%)], Loss: 0.209485, BatchTime:1.1830}
+05/25/2020 09:28:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 253.4455002657807, 'docker_mnist_2': 199.0687405145228, 'docker_mnist_3': 235.4974946121768, 'docker_mnist_4': 239.5112651, 'docker_mnist_5': 238.85422924481327}}
+05/26/2020 04:28:10 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [002560/60000 (4%)], Loss: 0.120662, BatchTime:1.2150}
+05/26/2020 04:28:11 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [002560/60000 (4%)], Loss: 0.089778, BatchTime:1.3544}
+05/26/2020 04:28:12 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [003840/60000 (6%)], Loss: 0.139998, BatchTime:1.5066}
+05/26/2020 04:28:19 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [001280/60000 (2%)], Loss: 0.135254, BatchTime:1.5468}
+05/25/2020 09:28:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 267.6789467, 'docker_mnist_2': 249.6878932443703, 'docker_mnist_3': 245.76816039834026, 'docker_mnist_4': 237.66115, 'docker_mnist_5': 214.89465447873226}}
+05/26/2020 04:28:20 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [001280/60000 (2%)], Loss: 0.127725, BatchTime:1.3990}
+05/26/2020 04:28:24 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [003200/60000 (5%)], Loss: 0.182707, BatchTime:1.4028}
+05/26/2020 04:28:26 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [003200/60000 (5%)], Loss: 0.129203, BatchTime:1.3392}
+05/26/2020 04:28:27 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [004480/60000 (7%)], Loss: 0.049647, BatchTime:1.3454}
+05/25/2020 09:28:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 217.21794522821577, 'docker_mnist_2': 235.71626439999997, 'docker_mnist_3': 249.06300926141074, 'docker_mnist_4': 251.2090412323064, 'docker_mnist_5': 226.9282162}}
+05/26/2020 04:28:33 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [001920/60000 (3%)], Loss: 0.045027, BatchTime:1.2713}
+05/26/2020 04:28:35 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [001920/60000 (3%)], Loss: 0.232478, BatchTime:1.6228}
+05/26/2020 04:28:38 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [003840/60000 (6%)], Loss: 0.139998, BatchTime:1.1629}
+05/26/2020 04:28:39 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [005120/60000 (9%)], Loss: 0.212457, BatchTime:0.9992}
+05/25/2020 09:28:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 210.32089543568463, 'docker_mnist_2': 248.2309085, 'docker_mnist_3': 239.8483905, 'docker_mnist_4': 252.1923162458472, 'docker_mnist_5': 246.264116813278}}
+05/26/2020 04:28:41 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [003840/60000 (6%)], Loss: 0.060932, BatchTime:1.6462}
+05/26/2020 04:28:46 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [002560/60000 (4%)], Loss: 0.048184, BatchTime:1.2193}
+05/26/2020 04:28:48 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [002560/60000 (4%)], Loss: 0.142715, BatchTime:0.9848}
+05/25/2020 09:28:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 240.5247146622185, 'docker_mnist_2': 252.7697597676348, 'docker_mnist_3': 244.55581594684386, 'docker_mnist_4': 223.6276585, 'docker_mnist_5': 259.2403410299004}}
+05/26/2020 04:28:53 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [004480/60000 (7%)], Loss: 0.049647, BatchTime:1.2842}
+05/26/2020 04:28:53 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [005760/60000 (10%)], Loss: 0.049341, BatchTime:1.7506}
+05/26/2020 04:28:54 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [004480/60000 (7%)], Loss: 0.061380, BatchTime:1.1592}
+05/25/2020 09:29:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 234.14962679999996, 'docker_mnist_2': 230.02753970000003, 'docker_mnist_3': 226.5401352159468, 'docker_mnist_4': 252.25575916736057, 'docker_mnist_5': 239.1886582819016}}
+05/26/2020 04:29:01 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [003200/60000 (5%)], Loss: 0.020610, BatchTime:1.2793}
+05/26/2020 04:29:03 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [003200/60000 (5%)], Loss: 0.247825, BatchTime:1.5831}
+05/26/2020 04:29:06 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [005120/60000 (9%)], Loss: 0.212457, BatchTime:1.6431}
+05/26/2020 04:29:07 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [005120/60000 (9%)], Loss: 0.196317, BatchTime:1.1966}
+05/26/2020 04:29:07 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 3, Progress: [006400/60000 (11%)], Loss: 0.085430, BatchTime:1.5260}
+05/26/2020 04:29:09 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 3, EpochTime:143.90379333496094}
+05/25/2020 09:29:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 233.64208720331948, 'docker_mnist_2': 235.3687327, 'docker_mnist_3': 246.5921022259136, 'docker_mnist_4': 244.76829387823187, 'docker_mnist_5': 241.24185658048373}}
+05/26/2020 04:29:13 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [003840/60000 (6%)], Loss: 0.023058, BatchTime:1.3489}
+05/26/2020 04:29:17 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [003840/60000 (6%)], Loss: 0.147245, BatchTime:1.5185}
+05/26/2020 04:29:18 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 3, AverageLoss: 0.0823, Accuracy: 9737/10000 (97%)
+05/26/2020 04:29:19 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [005760/60000 (10%)], Loss: 0.049341, BatchTime:0.8750}
+05/26/2020 04:29:19 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [005760/60000 (10%)], Loss: 0.210325, BatchTime:1.6732}
+05/25/2020 09:29:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 258.13716806639, 'docker_mnist_2': 237.3508587823186, 'docker_mnist_3': 264.3432549457882, 'docker_mnist_4': 223.5417554, 'docker_mnist_5': 242.59030884647302}}
+05/26/2020 04:29:20 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [000000/60000 (0%)], Loss: 0.089707, BatchTime:1.7114}
+05/26/2020 04:29:28 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [004480/60000 (7%)], Loss: 0.035945, BatchTime:1.4911}
+05/25/2020 09:29:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 222.2653548, 'docker_mnist_2': 227.5564561801501, 'docker_mnist_3': 239.7663605980066, 'docker_mnist_4': 249.55061589999997, 'docker_mnist_5': 250.5566005315615}}
+05/26/2020 04:29:31 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [004480/60000 (7%)], Loss: 0.203832, BatchTime:1.4666}
+05/26/2020 04:29:32 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 5, Progress: [006400/60000 (11%)], Loss: 0.044024, BatchTime:1.2910}
+05/26/2020 04:29:34 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 5, EpochTime:140.65590858459473}
+05/26/2020 04:29:35 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 3, Progress: [006400/60000 (11%)], Loss: 0.085430, BatchTime:1.6523}
+05/26/2020 04:29:35 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [000640/60000 (1%)], Loss: 0.209485, BatchTime:1.1891}
+05/26/2020 04:29:36 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 3, EpochTime:140.98026299476624}
+05/25/2020 09:29:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 232.13300019999997, 'docker_mnist_2': 227.40333277731446, 'docker_mnist_3': 235.63518612448132, 'docker_mnist_4': 252.9258336, 'docker_mnist_5': 224.25831879999998}}
+05/26/2020 04:29:41 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [005120/60000 (9%)], Loss: 0.066029, BatchTime:1.1449}
+05/26/2020 04:29:43 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 5, AverageLoss: 0.0609, Accuracy: 9809/10000 (98%)
+05/26/2020 04:29:44 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [000000/60000 (0%)], Loss: 0.184363, BatchTime:1.3255}
+05/26/2020 04:29:45 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 3, AverageLoss: 0.0823, Accuracy: 9737/10000 (97%)
+05/26/2020 04:29:46 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [005120/60000 (9%)], Loss: 0.283803, BatchTime:1.6477}
+05/26/2020 04:29:47 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [000000/60000 (0%)], Loss: 0.089707, BatchTime:1.5586}
+05/26/2020 04:29:49 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [001280/60000 (2%)], Loss: 0.127725, BatchTime:1.6129}
+05/25/2020 09:29:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 260.12133888240203, 'docker_mnist_2': 236.3246580398671, 'docker_mnist_3': 238.24354800000003, 'docker_mnist_4': 218.90003710000002, 'docker_mnist_5': 217.95403658091288}}
+05/26/2020 04:29:56 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [005760/60000 (10%)], Loss: 0.038225, BatchTime:1.6391}
+05/26/2020 04:29:58 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [000640/60000 (1%)], Loss: 0.061234, BatchTime:1.2749}
+05/26/2020 04:29:59 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [005760/60000 (10%)], Loss: 0.063773, BatchTime:1.2913}
+05/25/2020 09:30:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 251.1283707, 'docker_mnist_2': 259.64157620000003, 'docker_mnist_3': 228.1569266, 'docker_mnist_4': 225.78652049751244, 'docker_mnist_5': 242.29960466278104}}
+05/26/2020 04:30:02 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [000640/60000 (1%)], Loss: 0.209485, BatchTime:1.6633}
+05/26/2020 04:30:03 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [001920/60000 (3%)], Loss: 0.232478, BatchTime:1.7271}
+05/25/2020 09:30:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 230.44754152823919, 'docker_mnist_2': 216.4518122, 'docker_mnist_3': 234.8875726, 'docker_mnist_4': 256.00781248132785, 'docker_mnist_5': 253.90996202489623}}
+05/26/2020 04:30:11 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 8, Progress: [006400/60000 (11%)], Loss: 0.047544, BatchTime:1.4584}
+05/26/2020 04:30:12 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 8, EpochTime:140.9518392086029}
+05/26/2020 04:30:12 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [001280/60000 (2%)], Loss: 0.105202, BatchTime:0.9142}
+05/26/2020 04:30:14 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 4, Progress: [006400/60000 (11%)], Loss: 0.061537, BatchTime:1.4225}
+05/26/2020 04:30:15 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [001280/60000 (2%)], Loss: 0.127725, BatchTime:1.4249}
+05/26/2020 04:30:16 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 4, EpochTime:143.96478509902954}
+05/26/2020 04:30:16 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [002560/60000 (4%)], Loss: 0.142715, BatchTime:1.6012}
+05/25/2020 09:30:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 213.21800880000004, 'docker_mnist_2': 234.3797796, 'docker_mnist_3': 200.84891940298505, 'docker_mnist_4': 235.63597249999998, 'docker_mnist_5': 260.8239388}}
+05/26/2020 04:30:21 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 8, AverageLoss: 0.0565, Accuracy: 9819/10000 (98%)
+05/26/2020 04:30:22 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [000000/60000 (0%)], Loss: 0.050692, BatchTime:1.5320}
+05/26/2020 04:30:25 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 4, AverageLoss: 0.0740, Accuracy: 9774/10000 (98%)
+05/26/2020 04:30:26 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [001920/60000 (3%)], Loss: 0.018360, BatchTime:1.5588}
+05/26/2020 04:30:27 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [000000/60000 (0%)], Loss: 0.031773, BatchTime:1.6115}
+05/26/2020 04:30:29 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [001920/60000 (3%)], Loss: 0.232478, BatchTime:1.6786}
+05/26/2020 04:30:29 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [003200/60000 (5%)], Loss: 0.247825, BatchTime:1.1714}
+05/25/2020 09:30:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 252.91782920000003, 'docker_mnist_2': 230.4445156, 'docker_mnist_3': 235.32041039004147, 'docker_mnist_4': 234.328441, 'docker_mnist_5': 219.25852914095083}}
+05/26/2020 04:30:38 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [000640/60000 (1%)], Loss: 0.164148, BatchTime:1.5221}
+05/25/2020 09:30:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 232.4830376119403, 'docker_mnist_2': 240.6975908, 'docker_mnist_3': 243.56189724770644, 'docker_mnist_4': 236.78639024875622, 'docker_mnist_5': 241.69302185154297}}
+05/26/2020 04:30:41 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [000640/60000 (1%)], Loss: 0.139453, BatchTime:1.4834}
+05/26/2020 04:30:42 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [002560/60000 (4%)], Loss: 0.185447, BatchTime:1.2425}
+05/26/2020 04:30:43 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [002560/60000 (4%)], Loss: 0.142715, BatchTime:1.8194}
+05/26/2020 04:30:44 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [003840/60000 (6%)], Loss: 0.147245, BatchTime:1.4095}
+05/25/2020 09:30:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 222.3971108, 'docker_mnist_2': 244.88824116279068, 'docker_mnist_3': 268.329824551495, 'docker_mnist_4': 232.09123739999995, 'docker_mnist_5': 236.69531620316403}}
+05/26/2020 04:30:53 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [001280/60000 (2%)], Loss: 0.057660, BatchTime:1.5737}
+05/26/2020 04:30:55 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [003200/60000 (5%)], Loss: 0.093320, BatchTime:1.4989}
+05/26/2020 04:30:57 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [001280/60000 (2%)], Loss: 0.111362, BatchTime:1.5448}
+05/26/2020 04:30:58 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [003200/60000 (5%)], Loss: 0.247825, BatchTime:1.6002}
+05/25/2020 09:31:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 256.1456576146789, 'docker_mnist_2': 248.4241491, 'docker_mnist_3': 243.7297513692946, 'docker_mnist_4': 234.3292369, 'docker_mnist_5': 245.78775683069225}}
+05/26/2020 04:31:00 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [004480/60000 (7%)], Loss: 0.203832, BatchTime:1.2731}
+05/26/2020 04:31:08 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [001920/60000 (3%)], Loss: 0.071077, BatchTime:1.0671}
+05/26/2020 04:31:09 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [003840/60000 (6%)], Loss: 0.078054, BatchTime:1.1833}
+05/25/2020 09:31:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 237.11485852282158, 'docker_mnist_2': 253.27113759999997, 'docker_mnist_3': 223.29814570000002, 'docker_mnist_4': 202.1357749, 'docker_mnist_5': 224.5765170124481}}
+05/26/2020 04:31:12 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [001920/60000 (3%)], Loss: 0.104598, BatchTime:1.4023}
+05/26/2020 04:31:13 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [003840/60000 (6%)], Loss: 0.147245, BatchTime:1.3908}
+05/26/2020 04:31:15 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [005120/60000 (9%)], Loss: 0.283803, BatchTime:1.3186}
+05/26/2020 04:31:20 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [002560/60000 (4%)], Loss: 0.076780, BatchTime:1.0544}
+05/25/2020 09:31:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 236.40157699999997, 'docker_mnist_2': 241.19266326970956, 'docker_mnist_3': 247.97671843853823, 'docker_mnist_4': 242.20042198498749, 'docker_mnist_5': 254.04167439532944}}
+05/26/2020 04:31:24 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [004480/60000 (7%)], Loss: 0.077966, BatchTime:1.7149}
+05/26/2020 04:31:27 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [004480/60000 (7%)], Loss: 0.203832, BatchTime:1.3239}
+05/26/2020 04:31:28 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [002560/60000 (4%)], Loss: 0.089778, BatchTime:1.5321}
+05/25/2020 09:31:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 236.3170804979253, 'docker_mnist_2': 250.6347311, 'docker_mnist_3': 235.9844858381985, 'docker_mnist_4': 234.513544746045, 'docker_mnist_5': 255.2271664784053}}
+05/26/2020 04:31:31 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [005760/60000 (10%)], Loss: 0.063773, BatchTime:1.8058}
+05/26/2020 04:31:34 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [003200/60000 (5%)], Loss: 0.096204, BatchTime:1.6158}
+05/26/2020 04:31:39 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [005120/60000 (9%)], Loss: 0.208537, BatchTime:1.5177}
+05/25/2020 09:31:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 267.6952924, 'docker_mnist_2': 251.0700291, 'docker_mnist_3': 253.42294267219916, 'docker_mnist_4': 253.9930084, 'docker_mnist_5': 259.9739834862386}}
+05/26/2020 04:31:41 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [003200/60000 (5%)], Loss: 0.129203, BatchTime:1.5226}
+05/26/2020 04:31:41 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [005120/60000 (9%)], Loss: 0.283803, BatchTime:1.3156}
+05/26/2020 04:31:47 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 4, Progress: [006400/60000 (11%)], Loss: 0.061537, BatchTime:1.3187}
+05/26/2020 04:31:48 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 4, EpochTime:150.2323718070984}
+05/26/2020 04:31:49 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [003840/60000 (6%)], Loss: 0.080830, BatchTime:1.3527}
+05/25/2020 09:31:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 244.97836501244814, 'docker_mnist_2': 232.2501223, 'docker_mnist_3': 232.43478682157675, 'docker_mnist_4': 202.39418490000003, 'docker_mnist_5': 242.3601325}}
+05/26/2020 04:31:52 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [005760/60000 (10%)], Loss: 0.220770, BatchTime:1.4262}
+05/26/2020 04:31:56 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [005760/60000 (10%)], Loss: 0.063773, BatchTime:1.1258}
+05/26/2020 04:31:57 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [003840/60000 (6%)], Loss: 0.060932, BatchTime:1.4797}
+05/26/2020 04:31:57 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 4, AverageLoss: 0.0740, Accuracy: 9774/10000 (98%)
+05/26/2020 04:31:59 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [000000/60000 (0%)], Loss: 0.031773, BatchTime:1.4134}
+05/25/2020 09:32:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 237.1789114, 'docker_mnist_2': 242.44882351373857, 'docker_mnist_3': 251.29988412989178, 'docker_mnist_4': 232.3663145228216, 'docker_mnist_5': 237.26749969999997}}
+05/26/2020 04:32:04 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [004480/60000 (7%)], Loss: 0.071102, BatchTime:1.8551}
+05/26/2020 04:32:07 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 6, Progress: [006400/60000 (11%)], Loss: 0.172132, BatchTime:1.5863}
+05/26/2020 04:32:08 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 6, EpochTime:145.4919376373291}
+05/25/2020 09:32:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 233.98782260000002, 'docker_mnist_2': 238.6034819360131, 'docker_mnist_3': 235.8105043, 'docker_mnist_4': 248.09072570000004, 'docker_mnist_5': 261.354102}}
+05/26/2020 04:32:11 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 4, Progress: [006400/60000 (11%)], Loss: 0.061537, BatchTime:1.4093}
+05/26/2020 04:32:12 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [004480/60000 (7%)], Loss: 0.061380, BatchTime:1.4858}
+05/26/2020 04:32:13 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 4, EpochTime:147.7922728061676}
+05/26/2020 04:32:15 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [000640/60000 (1%)], Loss: 0.139453, BatchTime:1.5809}
+05/26/2020 04:32:18 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 6, AverageLoss: 0.0594, Accuracy: 9822/10000 (98%)
+05/26/2020 04:32:18 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [005120/60000 (9%)], Loss: 0.048217, BatchTime:1.5844}
+05/26/2020 04:32:19 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [000000/60000 (0%)], Loss: 0.126840, BatchTime:1.4414}
+05/25/2020 09:32:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 239.58284126141075, 'docker_mnist_2': 227.8525091362126, 'docker_mnist_3': 243.81641950000002, 'docker_mnist_4': 246.82782984179846, 'docker_mnist_5': 213.83021696265558}}
+05/26/2020 04:32:23 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 4, AverageLoss: 0.0740, Accuracy: 9774/10000 (98%)
+05/26/2020 04:32:24 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [000000/60000 (0%)], Loss: 0.031773, BatchTime:1.8768}
+05/26/2020 04:32:27 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [005120/60000 (9%)], Loss: 0.196317, BatchTime:1.5071}
+05/26/2020 04:32:29 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [001280/60000 (2%)], Loss: 0.111362, BatchTime:1.3026}
+05/25/2020 09:32:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 230.482187641196, 'docker_mnist_2': 238.2402327, 'docker_mnist_3': 245.7162975187344, 'docker_mnist_4': 251.54072773443988, 'docker_mnist_5': 235.6853839}}
+05/26/2020 04:32:33 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [000640/60000 (1%)], Loss: 0.062039, BatchTime:1.3229}
+05/26/2020 04:32:33 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [005760/60000 (10%)], Loss: 0.237452, BatchTime:1.7421}
+05/26/2020 04:32:39 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [000640/60000 (1%)], Loss: 0.139453, BatchTime:1.4019}
+05/25/2020 09:32:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 226.87478288093257, 'docker_mnist_2': 220.01461049125726, 'docker_mnist_3': 239.1204519402985, 'docker_mnist_4': 235.5306388323603, 'docker_mnist_5': 253.95463839999996}}
+05/26/2020 04:32:42 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [005760/60000 (10%)], Loss: 0.210325, BatchTime:1.1781}
+05/26/2020 04:32:44 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [001920/60000 (3%)], Loss: 0.104598, BatchTime:1.1997}
+05/26/2020 04:32:47 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [001280/60000 (2%)], Loss: 0.073080, BatchTime:1.8137}
+05/26/2020 04:32:48 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 9, Progress: [006400/60000 (11%)], Loss: 0.176696, BatchTime:1.2907}
+05/26/2020 04:32:49 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 9, EpochTime:148.3444812297821}
+05/25/2020 09:32:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 238.49096757297747, 'docker_mnist_2': 255.15794611295684, 'docker_mnist_3': 222.2415908, 'docker_mnist_4': 250.45756343619684, 'docker_mnist_5': 224.24556677178424}}
+05/26/2020 04:32:55 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [001280/60000 (2%)], Loss: 0.111362, BatchTime:1.4019}
+05/26/2020 04:32:58 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [002560/60000 (4%)], Loss: 0.089778, BatchTime:1.0959}
+05/26/2020 04:32:59 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 9, AverageLoss: 0.0544, Accuracy: 9823/10000 (98%)
+05/26/2020 04:32:59 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 5, Progress: [006400/60000 (11%)], Loss: 0.044024, BatchTime:1.7378}
+05/25/2020 09:33:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 217.63123613655287, 'docker_mnist_2': 239.64609529999996, 'docker_mnist_3': 243.01216136552875, 'docker_mnist_4': 243.5211399667774, 'docker_mnist_5': 229.35897560165978}}
+05/26/2020 04:33:00 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 5, EpochTime:155.3960428237915}
+05/26/2020 04:33:01 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [000000/60000 (0%)], Loss: 0.087101, BatchTime:1.5717}
+05/26/2020 04:33:02 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [001920/60000 (3%)], Loss: 0.105172, BatchTime:1.8222}
+05/26/2020 04:33:10 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 5, AverageLoss: 0.0609, Accuracy: 9809/10000 (98%)
+05/25/2020 09:33:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 247.8783884, 'docker_mnist_2': 228.1114607, 'docker_mnist_3': 233.3432127, 'docker_mnist_4': 241.0893217593361, 'docker_mnist_5': 244.90471100000002}}
+05/26/2020 04:33:11 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [000000/60000 (0%)], Loss: 0.184363, BatchTime:1.3693}
+05/26/2020 04:33:11 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [001920/60000 (3%)], Loss: 0.104598, BatchTime:1.6896}
+05/26/2020 04:33:13 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [003200/60000 (5%)], Loss: 0.129203, BatchTime:1.5947}
+05/26/2020 04:33:16 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [000640/60000 (1%)], Loss: 0.101104, BatchTime:1.4005}
+05/26/2020 04:33:16 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [002560/60000 (4%)], Loss: 0.051525, BatchTime:1.2787}
+05/25/2020 09:33:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 223.09292729999999, 'docker_mnist_2': 240.9936375747508, 'docker_mnist_3': 255.679599, 'docker_mnist_4': 243.19528019999998, 'docker_mnist_5': 238.20274504983388}}
+05/26/2020 04:33:24 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [000640/60000 (1%)], Loss: 0.061234, BatchTime:1.0420}
+05/26/2020 04:33:25 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [002560/60000 (4%)], Loss: 0.089778, BatchTime:1.2749}
+05/26/2020 04:33:27 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [003840/60000 (6%)], Loss: 0.060932, BatchTime:1.5834}
+05/26/2020 04:33:29 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [003200/60000 (5%)], Loss: 0.306972, BatchTime:1.2930}
+05/25/2020 09:33:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 237.8453269045643, 'docker_mnist_2': 240.80065110000004, 'docker_mnist_3': 241.68196945878435, 'docker_mnist_4': 236.17398368770762, 'docker_mnist_5': 248.7531439}}
+05/26/2020 04:33:32 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [001280/60000 (2%)], Loss: 0.093013, BatchTime:1.4266}
+05/26/2020 04:33:37 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [001280/60000 (2%)], Loss: 0.105202, BatchTime:1.2264}
+05/26/2020 04:33:39 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [003200/60000 (5%)], Loss: 0.129203, BatchTime:0.9286}
+05/25/2020 09:33:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 231.39144970809005, 'docker_mnist_2': 226.68092345228217, 'docker_mnist_3': 250.4867076, 'docker_mnist_4': 224.44490380000002, 'docker_mnist_5': 240.5644806965174}}
+05/26/2020 04:33:41 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [004480/60000 (7%)], Loss: 0.061380, BatchTime:1.3664}
+05/26/2020 04:33:45 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [003840/60000 (6%)], Loss: 0.040477, BatchTime:0.8778}
+05/26/2020 04:33:46 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [001920/60000 (3%)], Loss: 0.139728, BatchTime:1.5258}
+05/25/2020 09:33:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 233.10715679999998, 'docker_mnist_2': 249.66647339999997, 'docker_mnist_3': 226.9167108637874, 'docker_mnist_4': 244.96941249999998, 'docker_mnist_5': 251.62584859999998}}
+05/26/2020 04:33:51 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [001920/60000 (3%)], Loss: 0.018360, BatchTime:1.5143}
+05/26/2020 04:33:53 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [003840/60000 (6%)], Loss: 0.060932, BatchTime:1.3258}
+05/26/2020 04:33:54 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [005120/60000 (9%)], Loss: 0.196317, BatchTime:1.4456}
+05/26/2020 04:33:58 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [004480/60000 (7%)], Loss: 0.065624, BatchTime:1.1640}
+05/25/2020 09:34:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 246.35391256431535, 'docker_mnist_2': 256.58501335553706, 'docker_mnist_3': 231.53821820000002, 'docker_mnist_4': 272.0375581395349, 'docker_mnist_5': 239.9009344546211}}
+05/26/2020 04:34:02 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [002560/60000 (4%)], Loss: 0.096761, BatchTime:1.5896}
+05/26/2020 04:34:05 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [002560/60000 (4%)], Loss: 0.185447, BatchTime:1.3624}
+05/26/2020 04:34:07 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [004480/60000 (7%)], Loss: 0.061380, BatchTime:1.3588}
+05/26/2020 04:34:07 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [005760/60000 (10%)], Loss: 0.210325, BatchTime:1.2189}
+05/25/2020 09:34:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 243.41844719999997, 'docker_mnist_2': 240.35762162790695, 'docker_mnist_3': 233.25148995836804, 'docker_mnist_4': 235.54391750000002, 'docker_mnist_5': 214.03874519502074}}
+05/26/2020 04:34:12 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [005120/60000 (9%)], Loss: 0.115958, BatchTime:1.4297}
+05/26/2020 04:34:16 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [003200/60000 (5%)], Loss: 0.084316, BatchTime:1.7057}
+05/26/2020 04:34:20 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [005120/60000 (9%)], Loss: 0.196317, BatchTime:1.3312}
+05/25/2020 09:34:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 221.75150000000002, 'docker_mnist_2': 235.10138131776478, 'docker_mnist_3': 253.39052312292358, 'docker_mnist_4': 238.49821090909091, 'docker_mnist_5': 241.2811383152627}}
+05/26/2020 04:34:21 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [003200/60000 (5%)], Loss: 0.093320, BatchTime:1.4342}
+05/26/2020 04:34:21 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 5, Progress: [006400/60000 (11%)], Loss: 0.044024, BatchTime:1.3819}
+05/26/2020 04:34:22 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 5, EpochTime:144.76669430732727}
+05/26/2020 04:34:26 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [005760/60000 (10%)], Loss: 0.096909, BatchTime:1.3716}
+05/26/2020 04:34:30 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [003840/60000 (6%)], Loss: 0.019524, BatchTime:1.4578}
+05/25/2020 09:34:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 253.51522974273857, 'docker_mnist_2': 249.293545, 'docker_mnist_3': 265.43760890000004, 'docker_mnist_4': 222.71036265560167, 'docker_mnist_5': 227.53795857261412}}
+05/26/2020 04:34:32 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 5, AverageLoss: 0.0609, Accuracy: 9809/10000 (98%)
+05/26/2020 04:34:33 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [000000/60000 (0%)], Loss: 0.184363, BatchTime:1.0916}
+05/26/2020 04:34:33 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [005760/60000 (10%)], Loss: 0.210325, BatchTime:0.9501}
+05/26/2020 04:34:34 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [003840/60000 (6%)], Loss: 0.078054, BatchTime:1.5810}
+05/26/2020 04:34:39 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 7, Progress: [006400/60000 (11%)], Loss: 0.125535, BatchTime:1.6191}
+05/26/2020 04:34:40 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 7, EpochTime:141.93616366386414}
+05/25/2020 09:34:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 234.71704993355482, 'docker_mnist_2': 230.282763397169, 'docker_mnist_3': 223.7125635636969, 'docker_mnist_4': 239.73620980066445, 'docker_mnist_5': 238.78942426556017}}
+05/26/2020 04:34:44 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [004480/60000 (7%)], Loss: 0.130616, BatchTime:1.2773}
+05/26/2020 04:34:45 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 5, Progress: [006400/60000 (11%)], Loss: 0.044024, BatchTime:1.4261}
+05/26/2020 04:34:46 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [000640/60000 (1%)], Loss: 0.061234, BatchTime:1.2132}
+05/26/2020 04:34:46 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 5, EpochTime:143.88242864608765}
+05/26/2020 04:34:49 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 7, AverageLoss: 0.0582, Accuracy: 9824/10000 (98%)
+05/26/2020 04:34:50 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [004480/60000 (7%)], Loss: 0.077966, BatchTime:1.3394}
+05/26/2020 04:34:50 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [000000/60000 (0%)], Loss: 0.071398, BatchTime:1.0082}
+05/25/2020 09:34:50 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 252.30745570000002, 'docker_mnist_2': 207.0535158965805, 'docker_mnist_3': 239.5483989368771, 'docker_mnist_4': 247.090098, 'docker_mnist_5': 220.83256259999996}}
+05/26/2020 04:34:56 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 5, AverageLoss: 0.0609, Accuracy: 9809/10000 (98%)
+05/26/2020 04:34:58 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [000000/60000 (0%)], Loss: 0.184363, BatchTime:1.3517}
+05/26/2020 04:34:59 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [005120/60000 (9%)], Loss: 0.045732, BatchTime:1.6187}
+05/26/2020 04:35:00 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [001280/60000 (2%)], Loss: 0.105202, BatchTime:1.4755}
+05/25/2020 09:35:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 241.5338993526971, 'docker_mnist_2': 235.2079392, 'docker_mnist_3': 249.83694110000002, 'docker_mnist_4': 242.06175567027475, 'docker_mnist_5': 244.81160568595044}}
+05/26/2020 04:35:03 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [005120/60000 (9%)], Loss: 0.208537, BatchTime:1.4135}
+05/26/2020 04:35:03 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [000640/60000 (1%)], Loss: 0.048411, BatchTime:1.6429}
+05/25/2020 09:35:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 227.8575403, 'docker_mnist_2': 222.9778723319502, 'docker_mnist_3': 259.526883, 'docker_mnist_4': 257.5801629, 'docker_mnist_5': 229.25124169294605}}
+05/26/2020 04:35:12 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [000640/60000 (1%)], Loss: 0.061234, BatchTime:1.0838}
+05/26/2020 04:35:14 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [005760/60000 (10%)], Loss: 0.245904, BatchTime:1.3560}
+05/26/2020 04:35:15 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [001920/60000 (3%)], Loss: 0.018360, BatchTime:1.5665}
+05/26/2020 04:35:17 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [001280/60000 (2%)], Loss: 0.135254, BatchTime:1.2161}
+05/26/2020 04:35:17 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [005760/60000 (10%)], Loss: 0.220770, BatchTime:1.1113}
+05/25/2020 09:35:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 218.8527990325271, 'docker_mnist_2': 255.1082927, 'docker_mnist_3': 231.2975022, 'docker_mnist_4': 231.4884619933555, 'docker_mnist_5': 244.3803689626556}}
+05/26/2020 04:35:25 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [001280/60000 (2%)], Loss: 0.105202, BatchTime:1.0985}
+05/26/2020 04:35:27 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 10, Progress: [006400/60000 (11%)], Loss: 0.031698, BatchTime:1.3849}
+05/26/2020 04:35:28 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [002560/60000 (4%)], Loss: 0.185447, BatchTime:1.5546}
+05/26/2020 04:35:29 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 10, EpochTime:149.745290517807}
+05/26/2020 04:35:29 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [001920/60000 (3%)], Loss: 0.045027, BatchTime:1.4388}
+05/25/2020 09:35:30 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 230.10008574273857, 'docker_mnist_2': 223.01940120100085, 'docker_mnist_3': 245.4532720066611, 'docker_mnist_4': 237.42183196680497, 'docker_mnist_5': 238.88675014107883}}
+05/26/2020 04:35:31 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 6, Progress: [006400/60000 (11%)], Loss: 0.172132, BatchTime:1.2860}
+05/26/2020 04:35:33 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 6, EpochTime:143.36020350456238}
+05/26/2020 04:35:39 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 10, AverageLoss: 0.0530, Accuracy: 9829/10000 (98%)
+05/26/2020 04:35:39 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [001920/60000 (3%)], Loss: 0.018360, BatchTime:1.6542}
+05/26/2020 04:35:40 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [000000/60000 (0%)], Loss: 0.117716, BatchTime:1.2941}
+05/25/2020 09:35:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 211.3198248, 'docker_mnist_2': 257.48783119266056, 'docker_mnist_3': 216.52972246461286, 'docker_mnist_4': 245.52989467219916, 'docker_mnist_5': 223.2133545560166}}
+05/26/2020 04:35:42 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [003200/60000 (5%)], Loss: 0.093320, BatchTime:1.4776}
+05/26/2020 04:35:42 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 6, AverageLoss: 0.0594, Accuracy: 9822/10000 (98%)
+05/26/2020 04:35:43 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [002560/60000 (4%)], Loss: 0.048184, BatchTime:1.5366}
+05/26/2020 04:35:44 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [000000/60000 (0%)], Loss: 0.126840, BatchTime:1.4391}
+05/25/2020 09:35:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 243.6739368, 'docker_mnist_2': 213.9216187, 'docker_mnist_3': 233.6379588, 'docker_mnist_4': 238.81456493744784, 'docker_mnist_5': 248.2224283817427}}
+05/26/2020 04:35:52 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [002560/60000 (4%)], Loss: 0.185447, BatchTime:1.0102}
+05/26/2020 04:35:55 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [000640/60000 (1%)], Loss: 0.132045, BatchTime:1.5149}
+05/26/2020 04:35:57 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [003840/60000 (6%)], Loss: 0.078054, BatchTime:1.6933}
+05/26/2020 04:35:57 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [003200/60000 (5%)], Loss: 0.020610, BatchTime:1.1187}
+05/26/2020 04:35:58 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [000640/60000 (1%)], Loss: 0.062039, BatchTime:1.3223}
+05/25/2020 09:36:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 235.24111857261408, 'docker_mnist_2': 235.55218230000003, 'docker_mnist_3': 239.08933340000004, 'docker_mnist_4': 240.8651496, 'docker_mnist_5': 253.83452572839505}}
+05/26/2020 04:36:08 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [003200/60000 (5%)], Loss: 0.093320, BatchTime:1.6946}
+05/26/2020 04:36:09 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [001280/60000 (2%)], Loss: 0.421356, BatchTime:1.4590}
+05/25/2020 09:36:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 247.10678569294606, 'docker_mnist_2': 234.12998997510377, 'docker_mnist_3': 245.51061640000003, 'docker_mnist_4': 239.22114044962532, 'docker_mnist_5': 233.7953495}}
+05/26/2020 04:36:11 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [004480/60000 (7%)], Loss: 0.077966, BatchTime:1.2142}
+05/26/2020 04:36:12 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [003840/60000 (6%)], Loss: 0.023058, BatchTime:1.5863}
+05/26/2020 04:36:14 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [001280/60000 (2%)], Loss: 0.073080, BatchTime:1.3474}
+05/25/2020 09:36:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 214.73730350000002, 'docker_mnist_2': 258.89322089701, 'docker_mnist_3': 237.33788306922438, 'docker_mnist_4': 235.78839137385512, 'docker_mnist_5': 228.61385651741296}}
+05/26/2020 04:36:21 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [003840/60000 (6%)], Loss: 0.078054, BatchTime:1.2450}
+05/26/2020 04:36:26 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [005120/60000 (9%)], Loss: 0.208537, BatchTime:1.5866}
+05/26/2020 04:36:27 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [001920/60000 (3%)], Loss: 0.059249, BatchTime:1.6187}
+05/26/2020 04:36:28 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [001920/60000 (3%)], Loss: 0.105172, BatchTime:1.1611}
+05/26/2020 04:36:29 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [004480/60000 (7%)], Loss: 0.035945, BatchTime:1.7855}
+05/25/2020 09:36:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 249.53293378850958, 'docker_mnist_2': 254.02210076033057, 'docker_mnist_3': 244.9633914, 'docker_mnist_4': 215.2591341, 'docker_mnist_5': 240.88428509575357}}
+05/26/2020 04:36:36 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [004480/60000 (7%)], Loss: 0.077966, BatchTime:1.4440}
+05/26/2020 04:36:40 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [005760/60000 (10%)], Loss: 0.220770, BatchTime:1.3840}
+05/26/2020 04:36:40 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [002560/60000 (4%)], Loss: 0.040562, BatchTime:0.9497}
+05/25/2020 09:36:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 239.3387576353039, 'docker_mnist_2': 250.75680179999998, 'docker_mnist_3': 247.4294102, 'docker_mnist_4': 245.37496501244811, 'docker_mnist_5': 254.92676459999996}}
+05/26/2020 04:36:41 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [002560/60000 (4%)], Loss: 0.051525, BatchTime:1.4177}
+05/26/2020 04:36:43 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [005120/60000 (9%)], Loss: 0.066029, BatchTime:1.1584}
+05/25/2020 09:36:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 248.6791057, 'docker_mnist_2': 247.49963163485478, 'docker_mnist_3': 260.28914252491694, 'docker_mnist_4': 208.57370043189368, 'docker_mnist_5': 229.3770236}}
+05/26/2020 04:36:51 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [005120/60000 (9%)], Loss: 0.208537, BatchTime:1.4264}
+05/26/2020 04:36:53 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [003200/60000 (5%)], Loss: 0.019194, BatchTime:1.2021}
+05/26/2020 04:36:53 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 6, Progress: [006400/60000 (11%)], Loss: 0.172132, BatchTime:1.1941}
+05/26/2020 04:36:54 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 6, EpochTime:142.4520025253296}
+05/26/2020 04:36:54 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [003200/60000 (5%)], Loss: 0.306972, BatchTime:1.2328}
+05/26/2020 04:36:56 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [005760/60000 (10%)], Loss: 0.038225, BatchTime:1.3539}
+05/25/2020 09:37:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 235.6646062406639, 'docker_mnist_2': 253.8005438467943, 'docker_mnist_3': 236.40317284403673, 'docker_mnist_4': 228.1277582738589, 'docker_mnist_5': 261.45600059800665}}
+05/26/2020 04:37:03 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 6, AverageLoss: 0.0594, Accuracy: 9822/10000 (98%)
+05/26/2020 04:37:05 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [000000/60000 (0%)], Loss: 0.126840, BatchTime:1.2506}
+05/26/2020 04:37:06 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [005760/60000 (10%)], Loss: 0.220770, BatchTime:1.2630}
+05/26/2020 04:37:07 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [003840/60000 (6%)], Loss: 0.161113, BatchTime:1.4477}
+05/26/2020 04:37:07 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [003840/60000 (6%)], Loss: 0.040477, BatchTime:1.6105}
+05/25/2020 09:37:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 273.90126465387823, 'docker_mnist_2': 247.80733929999997, 'docker_mnist_3': 253.31142712033198, 'docker_mnist_4': 234.84181959999998, 'docker_mnist_5': 228.0615272}}
+05/26/2020 04:37:11 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 8, Progress: [006400/60000 (11%)], Loss: 0.047544, BatchTime:1.5292}
+05/26/2020 04:37:13 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 8, EpochTime:143.76551628112793}
+05/26/2020 04:37:18 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [000640/60000 (1%)], Loss: 0.062039, BatchTime:1.3979}
+05/26/2020 04:37:19 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [004480/60000 (7%)], Loss: 0.420503, BatchTime:1.3785}
+05/26/2020 04:37:19 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 6, Progress: [006400/60000 (11%)], Loss: 0.172132, BatchTime:1.5748}
+05/25/2020 09:37:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 243.8971525913621, 'docker_mnist_2': 227.1156469, 'docker_mnist_3': 250.2817041868223, 'docker_mnist_4': 239.1900862406639, 'docker_mnist_5': 247.57208450000002}}
+05/26/2020 04:37:21 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 6, EpochTime:144.54305052757263}
+05/26/2020 04:37:21 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [004480/60000 (7%)], Loss: 0.065624, BatchTime:1.1775}
+05/26/2020 04:37:21 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 8, AverageLoss: 0.0565, Accuracy: 9819/10000 (98%)
+05/26/2020 04:37:23 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [000000/60000 (0%)], Loss: 0.050692, BatchTime:1.4465}
+05/26/2020 04:37:30 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 6, AverageLoss: 0.0594, Accuracy: 9822/10000 (98%)
+05/25/2020 09:37:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 215.20417631359464, 'docker_mnist_2': 246.68164514950166, 'docker_mnist_3': 234.67499599666388, 'docker_mnist_4': 234.40226121161822, 'docker_mnist_5': 235.929471}}
+05/26/2020 04:37:31 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [000000/60000 (0%)], Loss: 0.126840, BatchTime:1.2267}
+05/26/2020 04:37:31 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [001280/60000 (2%)], Loss: 0.073080, BatchTime:1.2461}
+05/26/2020 04:37:33 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [005120/60000 (9%)], Loss: 0.115958, BatchTime:1.1772}
+05/26/2020 04:37:34 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [005120/60000 (9%)], Loss: 0.201946, BatchTime:1.4598}
+05/26/2020 04:37:38 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [000640/60000 (1%)], Loss: 0.164148, BatchTime:1.3545}
+05/25/2020 09:37:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 246.0724615154038, 'docker_mnist_2': 228.62530834854775, 'docker_mnist_3': 221.1522806, 'docker_mnist_4': 252.5233228975854, 'docker_mnist_5': 238.77859656380318}}
+05/26/2020 04:37:45 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [001920/60000 (3%)], Loss: 0.105172, BatchTime:1.1704}
+05/26/2020 04:37:46 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [005760/60000 (10%)], Loss: 0.090213, BatchTime:1.0068}
+05/26/2020 04:37:47 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [000640/60000 (1%)], Loss: 0.062039, BatchTime:1.6039}
+05/26/2020 04:37:48 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [005760/60000 (10%)], Loss: 0.096909, BatchTime:1.7637}
+05/25/2020 09:37:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 255.41930481727576, 'docker_mnist_2': 252.39047129274394, 'docker_mnist_3': 250.54176759367195, 'docker_mnist_4': 225.69539771712158, 'docker_mnist_5': 240.42056090000003}}
+05/26/2020 04:37:51 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [001280/60000 (2%)], Loss: 0.057660, BatchTime:1.6784}
+05/26/2020 04:38:00 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [002560/60000 (4%)], Loss: 0.051525, BatchTime:1.6705}
+05/26/2020 04:38:00 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 11, Progress: [006400/60000 (11%)], Loss: 0.025075, BatchTime:1.1421}
+05/26/2020 04:38:00 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [001280/60000 (2%)], Loss: 0.073080, BatchTime:1.2872}
+05/25/2020 09:38:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 238.11307000829873, 'docker_mnist_2': 249.05428446294752, 'docker_mnist_3': 233.97760493744784, 'docker_mnist_4': 245.90586408637873, 'docker_mnist_5': 239.71908119008268}}
+05/26/2020 04:38:01 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 11, EpochTime:142.74184226989746}
+05/26/2020 04:38:03 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 7, Progress: [006400/60000 (11%)], Loss: 0.125535, BatchTime:1.1264}
+05/26/2020 04:38:04 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 7, EpochTime:141.65140843391418}
+05/26/2020 04:38:07 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [001920/60000 (3%)], Loss: 0.071077, BatchTime:1.5216}
+05/26/2020 04:38:11 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 11, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/25/2020 09:38:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 238.29079319502074, 'docker_mnist_2': 240.94900523769806, 'docker_mnist_3': 240.8075374, 'docker_mnist_4': 252.3161129626556, 'docker_mnist_5': 242.01461210000002}}
+05/26/2020 04:38:12 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [000000/60000 (0%)], Loss: 0.082927, BatchTime:1.4746}
+05/26/2020 04:38:13 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 7, AverageLoss: 0.0582, Accuracy: 9824/10000 (98%)
+05/26/2020 04:38:13 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [001920/60000 (3%)], Loss: 0.105172, BatchTime:1.1734}
+05/26/2020 04:38:14 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [000000/60000 (0%)], Loss: 0.071398, BatchTime:0.9585}
+05/26/2020 04:38:15 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [003200/60000 (5%)], Loss: 0.306972, BatchTime:1.7274}
+05/25/2020 09:38:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 224.16181709999998, 'docker_mnist_2': 238.6975684385382, 'docker_mnist_3': 240.09234755629694, 'docker_mnist_4': 252.12792539999998, 'docker_mnist_5': 237.74624947456215}}
+05/26/2020 04:38:22 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [002560/60000 (4%)], Loss: 0.076780, BatchTime:1.8350}
+05/26/2020 04:38:27 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [000640/60000 (1%)], Loss: 0.067769, BatchTime:1.4347}
+05/26/2020 04:38:28 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [000640/60000 (1%)], Loss: 0.048411, BatchTime:1.4721}
+05/26/2020 04:38:29 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [002560/60000 (4%)], Loss: 0.051525, BatchTime:1.6213}
+05/26/2020 04:38:31 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [003840/60000 (6%)], Loss: 0.040477, BatchTime:1.6901}
+05/25/2020 09:38:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 232.55742610000001, 'docker_mnist_2': 262.43777930232557, 'docker_mnist_3': 236.0592671, 'docker_mnist_4': 226.86344760000003, 'docker_mnist_5': 230.2044852448133}}
+05/26/2020 04:38:38 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [003200/60000 (5%)], Loss: 0.096204, BatchTime:1.4510}
+05/25/2020 09:38:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 258.8993787, 'docker_mnist_2': 233.38897475083058, 'docker_mnist_3': 245.4593969, 'docker_mnist_4': 227.6652746, 'docker_mnist_5': 257.03114907883815}}
+05/26/2020 04:38:41 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [001280/60000 (2%)], Loss: 0.025194, BatchTime:1.5022}
+05/26/2020 04:38:42 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [003200/60000 (5%)], Loss: 0.306972, BatchTime:1.4497}
+05/26/2020 04:38:43 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [001280/60000 (2%)], Loss: 0.135254, BatchTime:1.4403}
+05/26/2020 04:38:46 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [004480/60000 (7%)], Loss: 0.065624, BatchTime:1.1631}
+05/25/2020 09:38:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 237.820075, 'docker_mnist_2': 240.46735540000003, 'docker_mnist_3': 262.363633, 'docker_mnist_4': 225.8626647, 'docker_mnist_5': 265.2983504477612}}
+05/26/2020 04:38:52 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [003840/60000 (6%)], Loss: 0.080830, BatchTime:1.2736}
+05/26/2020 04:38:55 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [001920/60000 (3%)], Loss: 0.143136, BatchTime:1.5761}
+05/26/2020 04:38:58 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [003840/60000 (6%)], Loss: 0.040477, BatchTime:1.5607}
+05/26/2020 04:38:58 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [001920/60000 (3%)], Loss: 0.045027, BatchTime:1.6288}
+05/26/2020 04:39:00 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [005120/60000 (9%)], Loss: 0.115958, BatchTime:1.0702}
+05/25/2020 09:39:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 219.9636911, 'docker_mnist_2': 247.16564036514524, 'docker_mnist_3': 220.44463580000001, 'docker_mnist_4': 234.5736111, 'docker_mnist_5': 238.5271228879668}}
+05/26/2020 04:39:07 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [002560/60000 (4%)], Loss: 0.216380, BatchTime:1.7012}
+05/26/2020 04:39:08 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [004480/60000 (7%)], Loss: 0.071102, BatchTime:1.7489}
+05/25/2020 09:39:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 227.97092386989155, 'docker_mnist_2': 243.0015099667774, 'docker_mnist_3': 233.9979180650542, 'docker_mnist_4': 242.10539250000005, 'docker_mnist_5': 241.99830238016528}}
+05/26/2020 04:39:12 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [002560/60000 (4%)], Loss: 0.048184, BatchTime:1.4427}
+05/26/2020 04:39:12 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [004480/60000 (7%)], Loss: 0.065624, BatchTime:1.7361}
+05/26/2020 04:39:14 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [005760/60000 (10%)], Loss: 0.096909, BatchTime:1.4521}
+05/26/2020 04:39:21 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [003200/60000 (5%)], Loss: 0.112132, BatchTime:1.4552}
+05/25/2020 09:39:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 224.75224659999998, 'docker_mnist_2': 222.913962235196, 'docker_mnist_3': 250.63266184232367, 'docker_mnist_4': 277.00166722268557, 'docker_mnist_5': 233.7870888}}
+05/26/2020 04:39:23 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [005120/60000 (9%)], Loss: 0.048217, BatchTime:1.3338}
+05/26/2020 04:39:27 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [005120/60000 (9%)], Loss: 0.115958, BatchTime:1.7522}
+05/26/2020 04:39:28 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [003200/60000 (5%)], Loss: 0.020610, BatchTime:1.7387}
+05/26/2020 04:39:28 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 7, Progress: [006400/60000 (11%)], Loss: 0.125535, BatchTime:1.4782}
+05/26/2020 04:39:30 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 7, EpochTime:146.27174186706543}
+05/25/2020 09:39:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 207.83131803986714, 'docker_mnist_2': 234.98306559999997, 'docker_mnist_3': 238.66483469999997, 'docker_mnist_4': 252.0578125913621, 'docker_mnist_5': 227.85078707641196}}
+05/26/2020 04:39:36 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [003840/60000 (6%)], Loss: 0.061576, BatchTime:1.8880}
+05/26/2020 04:39:38 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [005760/60000 (10%)], Loss: 0.237452, BatchTime:1.3260}
+05/26/2020 04:39:38 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 7, AverageLoss: 0.0582, Accuracy: 9824/10000 (98%)
+05/26/2020 04:39:40 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [000000/60000 (0%)], Loss: 0.071398, BatchTime:1.3176}
+05/25/2020 09:39:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 238.9056461, 'docker_mnist_2': 247.2127869, 'docker_mnist_3': 252.06497596680498, 'docker_mnist_4': 243.18467169307758, 'docker_mnist_5': 263.11035963302754}}
+05/26/2020 04:39:42 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [003840/60000 (6%)], Loss: 0.023058, BatchTime:1.4570}
+05/26/2020 04:39:42 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [005760/60000 (10%)], Loss: 0.096909, BatchTime:1.6147}
+05/25/2020 09:39:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 219.8159233554817, 'docker_mnist_2': 245.00818700000002, 'docker_mnist_3': 260.39110270000003, 'docker_mnist_4': 244.05836083056477, 'docker_mnist_5': 232.5341182}}
+05/26/2020 04:39:51 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [004480/60000 (7%)], Loss: 0.072434, BatchTime:1.3587}
+05/26/2020 04:39:53 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [000640/60000 (1%)], Loss: 0.048411, BatchTime:1.1014}
+05/26/2020 04:39:53 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 9, Progress: [006400/60000 (11%)], Loss: 0.176696, BatchTime:1.5844}
+05/26/2020 04:39:55 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 9, EpochTime:153.32767391204834}
+05/26/2020 04:39:55 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [004480/60000 (7%)], Loss: 0.035945, BatchTime:1.5583}
+05/26/2020 04:39:56 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 7, Progress: [006400/60000 (11%)], Loss: 0.125535, BatchTime:1.2335}
+05/26/2020 04:39:58 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 7, EpochTime:147.66788029670715}
+05/25/2020 09:40:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 249.5212305412157, 'docker_mnist_2': 202.51273572139303, 'docker_mnist_3': 238.0987754152824, 'docker_mnist_4': 244.82794829024186, 'docker_mnist_5': 244.9193980016653}}
+05/26/2020 04:40:04 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [005120/60000 (9%)], Loss: 0.078823, BatchTime:1.4395}
+05/26/2020 04:40:04 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 9, AverageLoss: 0.0544, Accuracy: 9823/10000 (98%)
+05/26/2020 04:40:05 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [000000/60000 (0%)], Loss: 0.087101, BatchTime:1.3758}
+05/26/2020 04:40:07 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [001280/60000 (2%)], Loss: 0.135254, BatchTime:1.2302}
+05/26/2020 04:40:07 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 7, AverageLoss: 0.0582, Accuracy: 9824/10000 (98%)
+05/26/2020 04:40:08 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [000000/60000 (0%)], Loss: 0.071398, BatchTime:1.2631}
+05/26/2020 04:40:09 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [005120/60000 (9%)], Loss: 0.066029, BatchTime:1.2642}
+05/25/2020 09:40:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 251.85099609999997, 'docker_mnist_2': 258.54017995020746, 'docker_mnist_3': 251.16606895746457, 'docker_mnist_4': 238.74489102414654, 'docker_mnist_5': 240.77882678838176}}
+05/26/2020 04:40:19 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [005760/60000 (10%)], Loss: 0.098314, BatchTime:1.7349}
+05/26/2020 04:40:20 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [000640/60000 (1%)], Loss: 0.101104, BatchTime:1.6671}
+05/25/2020 09:40:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 231.199729, 'docker_mnist_2': 236.9071728, 'docker_mnist_3': 240.52158300000002, 'docker_mnist_4': 227.41654016611295, 'docker_mnist_5': 231.54551169999996}}
+05/26/2020 04:40:21 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [001920/60000 (3%)], Loss: 0.045027, BatchTime:1.1483}
+05/26/2020 04:40:23 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [000640/60000 (1%)], Loss: 0.048411, BatchTime:1.4828}
+05/26/2020 04:40:23 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [005760/60000 (10%)], Loss: 0.038225, BatchTime:1.3869}
+05/25/2020 09:40:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 240.62909919999998, 'docker_mnist_2': 252.75825699585062, 'docker_mnist_3': 247.76360699999998, 'docker_mnist_4': 235.73453840000002, 'docker_mnist_5': 224.80498253101737}}
+05/26/2020 04:40:32 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [001280/60000 (2%)], Loss: 0.093013, BatchTime:1.1397}
+05/26/2020 04:40:33 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 12, Progress: [006400/60000 (11%)], Loss: 0.101032, BatchTime:1.6432}
+05/26/2020 04:40:35 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 12, EpochTime:144.3478765487671}
+05/26/2020 04:40:36 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [002560/60000 (4%)], Loss: 0.048184, BatchTime:1.6825}
+05/26/2020 04:40:37 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [001280/60000 (2%)], Loss: 0.135254, BatchTime:1.0622}
+05/26/2020 04:40:38 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 8, Progress: [006400/60000 (11%)], Loss: 0.047544, BatchTime:1.3145}
+05/26/2020 04:40:39 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 8, EpochTime:145.76635241508484}
+05/25/2020 09:40:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 236.17014475396164, 'docker_mnist_2': 240.6085625, 'docker_mnist_3': 251.68397337759336, 'docker_mnist_4': 246.73773740000001, 'docker_mnist_5': 241.1639396}}
+05/26/2020 04:40:45 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 12, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:40:46 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [001920/60000 (3%)], Loss: 0.139728, BatchTime:1.6048}
+05/26/2020 04:40:46 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [000000/60000 (0%)], Loss: 0.076536, BatchTime:1.2895}
+05/26/2020 04:40:49 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 8, AverageLoss: 0.0565, Accuracy: 9819/10000 (98%)
+05/26/2020 04:40:50 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [003200/60000 (5%)], Loss: 0.020610, BatchTime:1.4618}
+05/26/2020 04:40:50 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [001920/60000 (3%)], Loss: 0.045027, BatchTime:1.2859}
+05/26/2020 04:40:50 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [000000/60000 (0%)], Loss: 0.050692, BatchTime:1.5631}
+05/25/2020 09:40:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 227.40460586178182, 'docker_mnist_2': 253.26343433805164, 'docker_mnist_3': 204.88569410788384, 'docker_mnist_4': 219.89381526970953, 'docker_mnist_5': 234.87931120000002}}
+05/26/2020 04:40:59 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [000640/60000 (1%)], Loss: 0.062582, BatchTime:1.2501}
+05/26/2020 04:41:00 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [002560/60000 (4%)], Loss: 0.096761, BatchTime:1.0900}
+05/25/2020 09:41:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 239.7008174, 'docker_mnist_2': 243.73616671096346, 'docker_mnist_3': 259.2310985, 'docker_mnist_4': 261.9725166, 'docker_mnist_5': 221.33120497512436}}
+05/26/2020 04:41:03 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [002560/60000 (4%)], Loss: 0.048184, BatchTime:1.3743}
+05/26/2020 04:41:06 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [003840/60000 (6%)], Loss: 0.023058, BatchTime:1.4252}
+05/26/2020 04:41:06 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [000640/60000 (1%)], Loss: 0.164148, BatchTime:1.8748}
+05/25/2020 09:41:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 261.53411830000005, 'docker_mnist_2': 249.01577849999998, 'docker_mnist_3': 230.0386971286307, 'docker_mnist_4': 247.2137087239366, 'docker_mnist_5': 248.29549680000002}}
+05/26/2020 04:41:12 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [001280/60000 (2%)], Loss: 0.117026, BatchTime:1.5939}
+05/26/2020 04:41:13 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [003200/60000 (5%)], Loss: 0.084316, BatchTime:1.3512}
+05/26/2020 04:41:18 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [003200/60000 (5%)], Loss: 0.020610, BatchTime:1.5227}
+05/26/2020 04:41:19 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [004480/60000 (7%)], Loss: 0.035945, BatchTime:1.4005}
+05/25/2020 09:41:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 231.3560569, 'docker_mnist_2': 244.05644481727575, 'docker_mnist_3': 212.9411343, 'docker_mnist_4': 255.94439352697097, 'docker_mnist_5': 259.30014084929223}}
+05/26/2020 04:41:23 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [001280/60000 (2%)], Loss: 0.057660, BatchTime:1.4099}
+05/26/2020 04:41:26 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [001920/60000 (3%)], Loss: 0.097063, BatchTime:1.4951}
+05/26/2020 04:41:28 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [003840/60000 (6%)], Loss: 0.019524, BatchTime:1.1371}
+05/25/2020 09:41:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 239.04550890000002, 'docker_mnist_2': 227.9668603654485, 'docker_mnist_3': 236.57904100000002, 'docker_mnist_4': 252.4264103, 'docker_mnist_5': 226.60788707053945}}
+05/26/2020 04:41:34 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [003840/60000 (6%)], Loss: 0.023058, BatchTime:1.6882}
+05/26/2020 04:41:35 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [005120/60000 (9%)], Loss: 0.066029, BatchTime:1.6420}
+05/26/2020 04:41:38 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [001920/60000 (3%)], Loss: 0.071077, BatchTime:1.2189}
+05/25/2020 09:41:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 244.3663414, 'docker_mnist_2': 233.41875137385512, 'docker_mnist_3': 256.0009756, 'docker_mnist_4': 235.21638970954356, 'docker_mnist_5': 230.714538538206}}
+05/26/2020 04:41:41 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [002560/60000 (4%)], Loss: 0.077168, BatchTime:1.3367}
+05/26/2020 04:41:43 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [004480/60000 (7%)], Loss: 0.130616, BatchTime:1.7634}
+05/26/2020 04:41:50 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [004480/60000 (7%)], Loss: 0.035945, BatchTime:1.6106}
+05/26/2020 04:41:50 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [005760/60000 (10%)], Loss: 0.038225, BatchTime:1.5137}
+05/25/2020 09:41:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 232.44224813278007, 'docker_mnist_2': 211.0765647, 'docker_mnist_3': 221.9451672939217, 'docker_mnist_4': 238.81548458091288, 'docker_mnist_5': 238.36841020000003}}
+05/26/2020 04:41:54 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [002560/60000 (4%)], Loss: 0.076780, BatchTime:1.5136}
+05/26/2020 04:41:56 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [003200/60000 (5%)], Loss: 0.256669, BatchTime:1.3770}
+05/26/2020 04:41:58 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [005120/60000 (9%)], Loss: 0.045732, BatchTime:1.0670}
+05/25/2020 09:42:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 219.14109888796682, 'docker_mnist_2': 241.4958867, 'docker_mnist_3': 242.99423292946062, 'docker_mnist_4': 245.1056997497915, 'docker_mnist_5': 229.12613834862384}}
+05/26/2020 04:42:05 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 8, Progress: [006400/60000 (11%)], Loss: 0.047544, BatchTime:1.6618}
+05/26/2020 04:42:05 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [005120/60000 (9%)], Loss: 0.066029, BatchTime:1.3144}
+05/26/2020 04:42:07 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 8, EpochTime:148.3599030971527}
+05/26/2020 04:42:09 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [003200/60000 (5%)], Loss: 0.096204, BatchTime:1.1457}
+05/26/2020 04:42:10 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [003840/60000 (6%)], Loss: 0.280143, BatchTime:1.4774}
+05/25/2020 09:42:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 234.30898803986713, 'docker_mnist_2': 237.0248699, 'docker_mnist_3': 241.0499648, 'docker_mnist_4': 228.71811308970098, 'docker_mnist_5': 236.25110947717843}}
+05/26/2020 04:42:14 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [005760/60000 (10%)], Loss: 0.245904, BatchTime:2.0234}
+05/26/2020 04:42:15 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 8, AverageLoss: 0.0565, Accuracy: 9819/10000 (98%)
+05/26/2020 04:42:17 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [000000/60000 (0%)], Loss: 0.050692, BatchTime:1.3836}
+05/26/2020 04:42:20 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [005760/60000 (10%)], Loss: 0.038225, BatchTime:1.9990}
+05/25/2020 09:42:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 259.3513548709409, 'docker_mnist_2': 233.44121014178484, 'docker_mnist_3': 237.04678109999998, 'docker_mnist_4': 226.7083880165975, 'docker_mnist_5': 232.28938730000002}}
+05/26/2020 04:42:23 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [003840/60000 (6%)], Loss: 0.080830, BatchTime:1.2824}
+05/26/2020 04:42:24 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [004480/60000 (7%)], Loss: 0.085502, BatchTime:1.1388}
+05/26/2020 04:42:28 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 10, Progress: [006400/60000 (11%)], Loss: 0.031698, BatchTime:1.5685}
+05/26/2020 04:42:30 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 10, EpochTime:145.87325048446655}
+05/26/2020 04:42:31 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [000640/60000 (1%)], Loss: 0.164148, BatchTime:1.6995}
+05/25/2020 09:42:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 246.59207489574646, 'docker_mnist_2': 247.3534886639004, 'docker_mnist_3': 238.21572809325562, 'docker_mnist_4': 253.28271227310574, 'docker_mnist_5': 251.05891030705396}}
+05/26/2020 04:42:35 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 8, Progress: [006400/60000 (11%)], Loss: 0.047544, BatchTime:1.4277}
+05/26/2020 04:42:36 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [005120/60000 (9%)], Loss: 0.071266, BatchTime:1.1264}
+05/26/2020 04:42:36 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 8, EpochTime:149.16461873054504}
+05/26/2020 04:42:37 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [004480/60000 (7%)], Loss: 0.071102, BatchTime:1.6827}
+05/26/2020 04:42:39 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 10, AverageLoss: 0.0530, Accuracy: 9829/10000 (98%)
+05/26/2020 04:42:40 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [000000/60000 (0%)], Loss: 0.117716, BatchTime:1.1332}
+05/25/2020 09:42:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 240.29515165971645, 'docker_mnist_2': 226.38210334721066, 'docker_mnist_3': 216.8233650375313, 'docker_mnist_4': 241.92395013289035, 'docker_mnist_5': 205.8396033}}
+05/26/2020 04:42:43 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [001280/60000 (2%)], Loss: 0.057660, BatchTime:1.1896}
+05/26/2020 04:42:46 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 8, AverageLoss: 0.0565, Accuracy: 9819/10000 (98%)
+05/26/2020 04:42:47 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [000000/60000 (0%)], Loss: 0.050692, BatchTime:1.2193}
+05/26/2020 04:42:50 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [005760/60000 (10%)], Loss: 0.019594, BatchTime:1.5573}
+05/25/2020 09:42:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 230.70083459549625, 'docker_mnist_2': 237.34457859999998, 'docker_mnist_3': 236.98725877076413, 'docker_mnist_4': 228.95307680000002, 'docker_mnist_5': 234.9395565}}
+05/26/2020 04:42:51 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [005120/60000 (9%)], Loss: 0.048217, BatchTime:1.1821}
+05/26/2020 04:42:55 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [000640/60000 (1%)], Loss: 0.132045, BatchTime:1.3502}
+05/26/2020 04:42:56 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [001920/60000 (3%)], Loss: 0.071077, BatchTime:1.3507}
+05/26/2020 04:43:01 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [000640/60000 (1%)], Loss: 0.164148, BatchTime:1.1026}
+05/25/2020 09:43:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 233.25949513692947, 'docker_mnist_2': 240.4237022, 'docker_mnist_3': 238.27681100917434, 'docker_mnist_4': 249.15243239202658, 'docker_mnist_5': 242.692577626556}}
+05/26/2020 04:43:03 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 13, Progress: [006400/60000 (11%)], Loss: 0.081324, BatchTime:1.1540}
+05/26/2020 04:43:05 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 13, EpochTime:139.8587508201599}
+05/26/2020 04:43:06 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [005760/60000 (10%)], Loss: 0.237452, BatchTime:1.6184}
+05/26/2020 04:43:10 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [002560/60000 (4%)], Loss: 0.076780, BatchTime:1.3828}
+05/25/2020 09:43:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 262.0585837531276, 'docker_mnist_2': 244.0611345, 'docker_mnist_3': 240.46543289626555, 'docker_mnist_4': 245.0617327, 'docker_mnist_5': 240.7678932}}
+05/26/2020 04:43:11 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [001280/60000 (2%)], Loss: 0.421356, BatchTime:1.5108}
+05/26/2020 04:43:14 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [001280/60000 (2%)], Loss: 0.057660, BatchTime:1.2659}
+05/26/2020 04:43:14 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 13, AverageLoss: 0.0518, Accuracy: 9836/10000 (98%)
+05/26/2020 04:43:16 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [000000/60000 (0%)], Loss: 0.062087, BatchTime:1.3512}
+05/26/2020 04:43:21 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 9, Progress: [006400/60000 (11%)], Loss: 0.176696, BatchTime:1.6831}
+05/25/2020 09:43:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 216.8849639300583, 'docker_mnist_2': 243.00103897095437, 'docker_mnist_3': 246.12036680567144, 'docker_mnist_4': 237.94487410000002, 'docker_mnist_5': 239.96789138589213}}
+05/26/2020 04:43:22 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 9, EpochTime:153.4965283870697}
+05/26/2020 04:43:25 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [001920/60000 (3%)], Loss: 0.059249, BatchTime:1.4118}
+05/26/2020 04:43:26 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [003200/60000 (5%)], Loss: 0.096204, BatchTime:1.3747}
+05/26/2020 04:43:28 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [001920/60000 (3%)], Loss: 0.071077, BatchTime:1.4745}
+05/26/2020 04:43:30 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [000640/60000 (1%)], Loss: 0.050250, BatchTime:1.2116}
+05/25/2020 09:43:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 255.767542307054, 'docker_mnist_2': 260.23984440000004, 'docker_mnist_3': 212.6952380730897, 'docker_mnist_4': 253.74112720000002, 'docker_mnist_5': 242.0714413}}
+05/26/2020 04:43:32 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 9, AverageLoss: 0.0544, Accuracy: 9823/10000 (98%)
+05/26/2020 04:43:33 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [000000/60000 (0%)], Loss: 0.087101, BatchTime:1.2516}
+05/26/2020 04:43:39 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [003840/60000 (6%)], Loss: 0.080830, BatchTime:1.5181}
+05/26/2020 04:43:40 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [002560/60000 (4%)], Loss: 0.040562, BatchTime:1.6654}
+05/25/2020 09:43:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 231.57871508713694, 'docker_mnist_2': 235.1540691, 'docker_mnist_3': 236.0726484, 'docker_mnist_4': 247.70777517012445, 'docker_mnist_5': 250.609672}}
+05/26/2020 04:43:41 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [002560/60000 (4%)], Loss: 0.076780, BatchTime:1.0991}
+05/26/2020 04:43:44 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [001280/60000 (2%)], Loss: 0.125686, BatchTime:1.5704}
+05/26/2020 04:43:48 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [000640/60000 (1%)], Loss: 0.101104, BatchTime:1.4309}
+05/25/2020 09:43:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 250.3261829, 'docker_mnist_2': 225.0664280165975, 'docker_mnist_3': 237.1071320233139, 'docker_mnist_4': 234.37085560000003, 'docker_mnist_5': 261.99037603319505}}
+05/26/2020 04:43:54 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [004480/60000 (7%)], Loss: 0.071102, BatchTime:1.5291}
+05/26/2020 04:43:54 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [003200/60000 (5%)], Loss: 0.019194, BatchTime:1.0929}
+05/26/2020 04:43:55 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [003200/60000 (5%)], Loss: 0.096204, BatchTime:1.3347}
+05/26/2020 04:43:57 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [001920/60000 (3%)], Loss: 0.061981, BatchTime:1.0957}
+05/25/2020 09:44:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 242.97519070000004, 'docker_mnist_2': 235.7706413, 'docker_mnist_3': 227.18165158506224, 'docker_mnist_4': 234.91820325311204, 'docker_mnist_5': 248.69926579999998}}
+05/26/2020 04:44:03 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [001280/60000 (2%)], Loss: 0.093013, BatchTime:1.2748}
+05/26/2020 04:44:08 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [005120/60000 (9%)], Loss: 0.048217, BatchTime:1.3268}
+05/26/2020 04:44:08 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [003840/60000 (6%)], Loss: 0.161113, BatchTime:1.5530}
+05/26/2020 04:44:11 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [002560/60000 (4%)], Loss: 0.046799, BatchTime:1.5766}
+05/25/2020 09:44:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 248.87100729392174, 'docker_mnist_2': 223.69742630272953, 'docker_mnist_3': 240.83436479999997, 'docker_mnist_4': 238.98815350541216, 'docker_mnist_5': 254.54871139534882}}
+05/26/2020 04:44:12 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [003840/60000 (6%)], Loss: 0.080830, BatchTime:1.5178}
+05/26/2020 04:44:18 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [001920/60000 (3%)], Loss: 0.139728, BatchTime:1.8335}
+05/26/2020 04:44:21 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [005760/60000 (10%)], Loss: 0.237452, BatchTime:1.4994}
+05/25/2020 09:44:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 260.09164219999997, 'docker_mnist_2': 236.00330997502084, 'docker_mnist_3': 233.19124560995851, 'docker_mnist_4': 234.7356361, 'docker_mnist_5': 237.3612698}}
+05/26/2020 04:44:23 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [004480/60000 (7%)], Loss: 0.420503, BatchTime:1.3869}
+05/26/2020 04:44:26 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [004480/60000 (7%)], Loss: 0.071102, BatchTime:1.4786}
+05/26/2020 04:44:28 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [003200/60000 (5%)], Loss: 0.015794, BatchTime:1.4846}
+05/25/2020 09:44:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 241.59694428690577, 'docker_mnist_2': 234.03641507053942, 'docker_mnist_3': 250.88355585062243, 'docker_mnist_4': 245.66755360000002, 'docker_mnist_5': 228.29362395348835}}
+05/26/2020 04:44:33 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [002560/60000 (4%)], Loss: 0.096761, BatchTime:1.2250}
+05/26/2020 04:44:35 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 9, Progress: [006400/60000 (11%)], Loss: 0.176696, BatchTime:1.4782}
+05/26/2020 04:44:36 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 9, EpochTime:141.17190718650818}
+05/26/2020 04:44:38 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [005120/60000 (9%)], Loss: 0.201946, BatchTime:1.5629}
+05/26/2020 04:44:41 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [005120/60000 (9%)], Loss: 0.048217, BatchTime:1.4703}
+05/25/2020 09:44:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 257.27989249999996, 'docker_mnist_2': 231.44183579649706, 'docker_mnist_3': 238.5230093, 'docker_mnist_4': 247.31658577114428, 'docker_mnist_5': 237.50791893422146}}
+05/26/2020 04:44:42 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [003840/60000 (6%)], Loss: 0.033637, BatchTime:1.4173}
+05/26/2020 04:44:46 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 9, AverageLoss: 0.0544, Accuracy: 9823/10000 (98%)
+05/26/2020 04:44:47 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [003200/60000 (5%)], Loss: 0.084316, BatchTime:1.0501}
+05/26/2020 04:44:47 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [000000/60000 (0%)], Loss: 0.087101, BatchTime:1.5409}
+05/25/2020 09:44:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 280.1623287, 'docker_mnist_2': 243.56718569999998, 'docker_mnist_3': 249.5946947053942, 'docker_mnist_4': 241.86515089241033, 'docker_mnist_5': 228.9211588676103}}
+05/26/2020 04:44:52 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [005760/60000 (10%)], Loss: 0.090213, BatchTime:1.4414}
+05/26/2020 04:44:57 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [005760/60000 (10%)], Loss: 0.237452, BatchTime:1.3432}
+05/26/2020 04:44:58 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [004480/60000 (7%)], Loss: 0.047004, BatchTime:1.5106}
+05/25/2020 09:45:01 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 246.22509329999997, 'docker_mnist_2': 253.83925712863072, 'docker_mnist_3': 245.18406570000002, 'docker_mnist_4': 241.70484288796683, 'docker_mnist_5': 207.45275429999998}}
+05/26/2020 04:45:03 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [003840/60000 (6%)], Loss: 0.019524, BatchTime:1.4503}
+05/26/2020 04:45:04 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [000640/60000 (1%)], Loss: 0.101104, BatchTime:1.6800}
+05/26/2020 04:45:06 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 11, Progress: [006400/60000 (11%)], Loss: 0.025075, BatchTime:1.5267}
+05/26/2020 04:45:08 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 11, EpochTime:148.86781191825867}
+05/25/2020 09:45:11 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 244.21102109999998, 'docker_mnist_2': 243.6566326245847, 'docker_mnist_3': 241.48293507923267, 'docker_mnist_4': 245.6603873, 'docker_mnist_5': 238.49399920331953}}
+05/26/2020 04:45:11 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [005120/60000 (9%)], Loss: 0.014237, BatchTime:1.2503}
+05/26/2020 04:45:12 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 9, Progress: [006400/60000 (11%)], Loss: 0.176696, BatchTime:1.4930}
+05/26/2020 04:45:13 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 9, EpochTime:147.37035512924194}
+05/26/2020 04:45:16 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [004480/60000 (7%)], Loss: 0.130616, BatchTime:1.2798}
+05/26/2020 04:45:17 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 11, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:45:17 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [001280/60000 (2%)], Loss: 0.093013, BatchTime:1.2195}
+05/26/2020 04:45:19 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [000000/60000 (0%)], Loss: 0.082927, BatchTime:1.5174}
+05/25/2020 09:45:21 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 232.8245538, 'docker_mnist_2': 225.62715879999996, 'docker_mnist_3': 235.55118104912572, 'docker_mnist_4': 256.21722253941914, 'docker_mnist_5': 218.15585829999998}}
+05/26/2020 04:45:23 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 9, AverageLoss: 0.0544, Accuracy: 9823/10000 (98%)
+05/26/2020 04:45:24 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [000000/60000 (0%)], Loss: 0.087101, BatchTime:1.3228}
+05/26/2020 04:45:26 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [005760/60000 (10%)], Loss: 0.256435, BatchTime:1.4176}
+05/26/2020 04:45:29 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [001920/60000 (3%)], Loss: 0.139728, BatchTime:1.0860}
+05/26/2020 04:45:31 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [005120/60000 (9%)], Loss: 0.045732, BatchTime:1.5648}
+05/25/2020 09:45:31 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 223.92605460000004, 'docker_mnist_2': 247.4320828, 'docker_mnist_3': 226.50194280497925, 'docker_mnist_4': 236.69343986710965, 'docker_mnist_5': 225.98103326141077}}
+05/26/2020 04:45:34 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [000640/60000 (1%)], Loss: 0.067769, BatchTime:1.1591}
+05/26/2020 04:45:39 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [000640/60000 (1%)], Loss: 0.101104, BatchTime:1.6011}
+05/25/2020 09:45:41 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 240.47817220000002, 'docker_mnist_2': 241.74792709999997, 'docker_mnist_3': 257.122540780083, 'docker_mnist_4': 250.66654590000002, 'docker_mnist_5': 222.70445930000002}}
+05/26/2020 04:45:41 AM  == {Docker: docker_mnist_1, LogType: 1, TrainEpoch: 14, Progress: [006400/60000 (11%)], Loss: 0.150820, BatchTime:1.4035}
+05/26/2020 04:45:42 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [002560/60000 (4%)], Loss: 0.096761, BatchTime:1.4449}
+05/26/2020 04:45:43 AM  == {Docker: docker_mnist_1, LogType: 2, TrainEpoch: 14, EpochTime:148.66792702674866}
+05/26/2020 04:45:47 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [001280/60000 (2%)], Loss: 0.025194, BatchTime:1.6260}
+05/26/2020 04:45:48 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [005760/60000 (10%)], Loss: 0.245904, BatchTime:1.3564}
+05/26/2020 04:45:51 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [001280/60000 (2%)], Loss: 0.093013, BatchTime:1.2255}
+05/25/2020 09:45:51 PM  == {LogType: 4, cpu_usage: {'docker_mnist_1': 221.67730491257288, 'docker_mnist_2': 238.91293016611297, 'docker_mnist_3': 249.51104843153524, 'docker_mnist_4': 251.00153650000001, 'docker_mnist_5': 247.2137550123052}}
+05/26/2020 04:45:52 AM  == {Docker: docker_mnist_1, LogType: 3, TrainEpoch: 14, AverageLoss: 0.0517, Accuracy: 9837/10000 (98%)
+05/26/2020 04:45:55 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [003200/60000 (5%)], Loss: 0.084316, BatchTime:0.5528}
+05/26/2020 04:45:59 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [001920/60000 (3%)], Loss: 0.143136, BatchTime:1.1271}
+05/26/2020 04:46:00 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 10, Progress: [006400/60000 (11%)], Loss: 0.031698, BatchTime:1.1866}
+05/26/2020 04:46:01 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 10, EpochTime:148.9219994544983}
+05/26/2020 04:46:03 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [003840/60000 (6%)], Loss: 0.019524, BatchTime:0.6641}
+05/26/2020 04:46:03 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [001920/60000 (3%)], Loss: 0.139728, BatchTime:1.0596}
+05/25/2020 09:46:04 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 300.2037888, 'docker_mnist_3': 281.39278376763485, 'docker_mnist_4': 338.6656333, 'docker_mnist_5': 307.7001917}}
+05/26/2020 04:46:08 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [002560/60000 (4%)], Loss: 0.216380, BatchTime:0.5775}
+05/26/2020 04:46:09 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 10, AverageLoss: 0.0530, Accuracy: 9829/10000 (98%)
+05/26/2020 04:46:09 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [000000/60000 (0%)], Loss: 0.117716, BatchTime:0.7709}
+05/25/2020 09:46:12 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 305.54403069767443, 'docker_mnist_3': 287.3181536053289, 'docker_mnist_4': 307.65824562864276, 'docker_mnist_5': 292.1009513432836}}
+05/26/2020 04:46:12 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [002560/60000 (4%)], Loss: 0.096761, BatchTime:1.0268}
+05/26/2020 04:46:13 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [004480/60000 (7%)], Loss: 0.130616, BatchTime:1.3580}
+05/26/2020 04:46:19 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [003200/60000 (5%)], Loss: 0.112132, BatchTime:1.0784}
+05/25/2020 09:46:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 313.4181382819016, 'docker_mnist_3': 302.52375734439835, 'docker_mnist_4': 301.18546671107407, 'docker_mnist_5': 322.1515846}}
+05/26/2020 04:46:21 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [000640/60000 (1%)], Loss: 0.132045, BatchTime:1.4322}
+05/26/2020 04:46:21 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [003200/60000 (5%)], Loss: 0.084316, BatchTime:1.1631}
+05/26/2020 04:46:23 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [005120/60000 (9%)], Loss: 0.045732, BatchTime:1.1181}
+05/25/2020 09:46:28 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 299.7856181576763, 'docker_mnist_3': 301.62751620000006, 'docker_mnist_4': 312.5436974188177, 'docker_mnist_5': 278.1636602489627}}
+05/26/2020 04:46:29 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [003840/60000 (6%)], Loss: 0.061576, BatchTime:0.9906}
+05/26/2020 04:46:32 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [001280/60000 (2%)], Loss: 0.421356, BatchTime:1.2449}
+05/26/2020 04:46:32 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [005760/60000 (10%)], Loss: 0.245904, BatchTime:0.5963}
+05/26/2020 04:46:32 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [003840/60000 (6%)], Loss: 0.019524, BatchTime:0.9352}
+05/25/2020 09:46:36 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 289.3149537, 'docker_mnist_3': 279.6617938, 'docker_mnist_4': 285.3100337541528, 'docker_mnist_5': 291.96154}}
+05/26/2020 04:46:38 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [004480/60000 (7%)], Loss: 0.072434, BatchTime:0.7104}
+05/26/2020 04:46:41 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [001920/60000 (3%)], Loss: 0.059249, BatchTime:1.0721}
+05/26/2020 04:46:42 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [004480/60000 (7%)], Loss: 0.130616, BatchTime:0.9468}
+05/26/2020 04:46:42 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 10, Progress: [006400/60000 (11%)], Loss: 0.031698, BatchTime:0.9104}
+05/26/2020 04:46:43 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 10, EpochTime:117.2329113483429}
+05/25/2020 09:46:44 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 305.8131841983471, 'docker_mnist_3': 297.8318464, 'docker_mnist_4': 297.59202494587845, 'docker_mnist_5': 297.30357848962655}}
+05/26/2020 04:46:48 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [005120/60000 (9%)], Loss: 0.078823, BatchTime:0.7906}
+05/26/2020 04:46:49 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [002560/60000 (4%)], Loss: 0.040562, BatchTime:0.7883}
+05/26/2020 04:46:51 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 10, AverageLoss: 0.0530, Accuracy: 9829/10000 (98%)
+05/26/2020 04:46:52 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [000000/60000 (0%)], Loss: 0.117716, BatchTime:0.7540}
+05/26/2020 04:46:52 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [005120/60000 (9%)], Loss: 0.045732, BatchTime:0.8760}
+05/25/2020 09:46:52 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 257.47705218984174, 'docker_mnist_3': 306.53655920000006, 'docker_mnist_4': 263.2868346224067, 'docker_mnist_5': 287.2510135}}
+05/26/2020 04:46:58 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [005760/60000 (10%)], Loss: 0.098314, BatchTime:0.9646}
+05/25/2020 09:47:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 309.317916, 'docker_mnist_3': 285.9805762655602, 'docker_mnist_4': 283.27224, 'docker_mnist_5': 301.55616469999995}}
+05/26/2020 04:47:00 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [003200/60000 (5%)], Loss: 0.019194, BatchTime:1.3637}
+05/26/2020 04:47:01 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [000640/60000 (1%)], Loss: 0.132045, BatchTime:1.0093}
+05/26/2020 04:47:02 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [005760/60000 (10%)], Loss: 0.245904, BatchTime:1.2342}
+05/26/2020 04:47:08 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 12, Progress: [006400/60000 (11%)], Loss: 0.101032, BatchTime:1.3661}
+05/25/2020 09:47:08 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 287.7347035020747, 'docker_mnist_3': 306.9384307, 'docker_mnist_4': 283.78255363863445, 'docker_mnist_5': 318.0704249751244}}
+05/26/2020 04:47:09 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 12, EpochTime:111.75191068649292}
+05/26/2020 04:47:10 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [003840/60000 (6%)], Loss: 0.161113, BatchTime:0.7099}
+05/26/2020 04:47:11 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [001280/60000 (2%)], Loss: 0.421356, BatchTime:0.5780}
+05/26/2020 04:47:11 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 10, Progress: [006400/60000 (11%)], Loss: 0.031698, BatchTime:0.7264}
+05/26/2020 04:47:12 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 10, EpochTime:109.42871570587158}
+05/25/2020 09:47:16 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 239.6763101078838, 'docker_mnist_3': 292.1951258, 'docker_mnist_4': 315.2558396006655, 'docker_mnist_5': 267.1065677}}
+05/26/2020 04:47:18 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 12, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:47:18 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [000000/60000 (0%)], Loss: 0.076536, BatchTime:0.6926}
+05/26/2020 04:47:18 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [004480/60000 (7%)], Loss: 0.420503, BatchTime:0.9511}
+05/26/2020 04:47:19 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [001920/60000 (3%)], Loss: 0.059249, BatchTime:1.3398}
+05/26/2020 04:47:20 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 10, AverageLoss: 0.0530, Accuracy: 9829/10000 (98%)
+05/26/2020 04:47:21 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [000000/60000 (0%)], Loss: 0.117716, BatchTime:0.9625}
+05/25/2020 09:47:24 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 301.8805723817427, 'docker_mnist_3': 296.9552852736319, 'docker_mnist_4': 304.1310173278008, 'docker_mnist_5': 296.95436132890364}}
+05/26/2020 04:47:27 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [000640/60000 (1%)], Loss: 0.062582, BatchTime:1.2545}
+05/26/2020 04:47:28 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [002560/60000 (4%)], Loss: 0.040562, BatchTime:0.5809}
+05/26/2020 04:47:29 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [005120/60000 (9%)], Loss: 0.201946, BatchTime:0.8998}
+05/26/2020 04:47:30 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [000640/60000 (1%)], Loss: 0.132045, BatchTime:1.2313}
+05/25/2020 09:47:32 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 293.11584399666947, 'docker_mnist_3': 302.1131867889908, 'docker_mnist_4': 294.0034241327801, 'docker_mnist_5': 296.9956776}}
+05/26/2020 04:47:38 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [003200/60000 (5%)], Loss: 0.019194, BatchTime:1.0744}
+05/26/2020 04:47:39 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [001280/60000 (2%)], Loss: 0.117026, BatchTime:1.1840}
+05/25/2020 09:47:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 292.3579230025021, 'docker_mnist_3': 302.01481533609956, 'docker_mnist_4': 280.2887575, 'docker_mnist_5': 294.0873406}}
+05/26/2020 04:47:40 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [005760/60000 (10%)], Loss: 0.090213, BatchTime:1.1358}
+05/26/2020 04:47:40 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [001280/60000 (2%)], Loss: 0.421356, BatchTime:0.5642}
+05/26/2020 04:47:48 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [003840/60000 (6%)], Loss: 0.161113, BatchTime:1.0617}
+05/25/2020 09:47:48 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 301.2238185074627, 'docker_mnist_3': 303.7083188657214, 'docker_mnist_4': 321.98535580000004, 'docker_mnist_5': 314.39567830705397}}
+05/26/2020 04:47:50 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [001920/60000 (3%)], Loss: 0.097063, BatchTime:1.1845}
+05/26/2020 04:47:51 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [001920/60000 (3%)], Loss: 0.059249, BatchTime:0.8608}
+05/26/2020 04:47:51 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 11, Progress: [006400/60000 (11%)], Loss: 0.025075, BatchTime:1.2605}
+05/26/2020 04:47:53 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 11, EpochTime:103.92155194282532}
+05/25/2020 09:47:56 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 297.7536378737542, 'docker_mnist_3': 293.7407614, 'docker_mnist_4': 293.61687756869276, 'docker_mnist_5': 312.9897245}}
+05/26/2020 04:47:58 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [004480/60000 (7%)], Loss: 0.420503, BatchTime:0.8098}
+05/26/2020 04:47:59 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [002560/60000 (4%)], Loss: 0.077168, BatchTime:0.9296}
+05/26/2020 04:48:00 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 11, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:48:00 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [002560/60000 (4%)], Loss: 0.040562, BatchTime:1.0743}
+05/26/2020 04:48:01 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [000000/60000 (0%)], Loss: 0.082927, BatchTime:1.2002}
+05/25/2020 09:48:04 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 311.4495174, 'docker_mnist_3': 286.52720564315354, 'docker_mnist_4': 291.60710569294605, 'docker_mnist_5': 303.3355700912863}}
+05/26/2020 04:48:08 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [005120/60000 (9%)], Loss: 0.201946, BatchTime:1.2507}
+05/26/2020 04:48:09 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [003200/60000 (5%)], Loss: 0.256669, BatchTime:0.7345}
+05/26/2020 04:48:10 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [003200/60000 (5%)], Loss: 0.019194, BatchTime:0.6643}
+05/25/2020 09:48:12 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 305.30746669999996, 'docker_mnist_3': 280.5225960199005, 'docker_mnist_4': 289.80298541215654, 'docker_mnist_5': 274.34170290000003}}
+05/26/2020 04:48:12 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [000640/60000 (1%)], Loss: 0.067769, BatchTime:0.9531}
+05/26/2020 04:48:19 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [005760/60000 (10%)], Loss: 0.090213, BatchTime:0.6917}
+05/25/2020 09:48:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 310.28363073858924, 'docker_mnist_3': 290.3166784, 'docker_mnist_4': 293.5247246, 'docker_mnist_5': 283.4962769128631}}
+05/26/2020 04:48:20 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [003840/60000 (6%)], Loss: 0.280143, BatchTime:1.0318}
+05/26/2020 04:48:21 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [003840/60000 (6%)], Loss: 0.161113, BatchTime:1.1021}
+05/26/2020 04:48:21 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [001280/60000 (2%)], Loss: 0.025194, BatchTime:0.9777}
+05/25/2020 09:48:28 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 296.1393325, 'docker_mnist_3': 278.9669622, 'docker_mnist_4': 300.01105235880397, 'docker_mnist_5': 321.81802949124267}}
+05/26/2020 04:48:29 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [004480/60000 (7%)], Loss: 0.085502, BatchTime:1.1593}
+05/26/2020 04:48:29 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 11, Progress: [006400/60000 (11%)], Loss: 0.025075, BatchTime:1.2234}
+05/26/2020 04:48:30 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [004480/60000 (7%)], Loss: 0.420503, BatchTime:0.8919}
+05/26/2020 04:48:30 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 11, EpochTime:99.4411633014679}
+05/26/2020 04:48:32 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [001920/60000 (3%)], Loss: 0.143136, BatchTime:0.5492}
+05/25/2020 09:48:36 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 272.7325513, 'docker_mnist_3': 324.4596532556203, 'docker_mnist_4': 271.7234698755187, 'docker_mnist_5': 295.4586235020747}}
+05/26/2020 04:48:38 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 11, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:48:39 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [000000/60000 (0%)], Loss: 0.082927, BatchTime:0.9907}
+05/26/2020 04:48:39 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [005120/60000 (9%)], Loss: 0.071266, BatchTime:0.9895}
+05/26/2020 04:48:40 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [005120/60000 (9%)], Loss: 0.201946, BatchTime:0.8267}
+05/26/2020 04:48:41 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [002560/60000 (4%)], Loss: 0.216380, BatchTime:1.1464}
+05/25/2020 09:48:44 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 301.5694422572614, 'docker_mnist_3': 277.4210122, 'docker_mnist_4': 309.7813416, 'docker_mnist_5': 287.47567339419084}}
+05/26/2020 04:48:48 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [000640/60000 (1%)], Loss: 0.067769, BatchTime:0.9284}
+05/26/2020 04:48:49 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [005760/60000 (10%)], Loss: 0.019594, BatchTime:1.1709}
+05/26/2020 04:48:50 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [005760/60000 (10%)], Loss: 0.090213, BatchTime:1.3067}
+05/26/2020 04:48:50 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [003200/60000 (5%)], Loss: 0.112132, BatchTime:0.5490}
+05/25/2020 09:48:52 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 305.1586354, 'docker_mnist_3': 289.19235548172753, 'docker_mnist_4': 306.9897768, 'docker_mnist_5': 289.1045564363031}}
+05/26/2020 04:48:59 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [001280/60000 (2%)], Loss: 0.025194, BatchTime:1.2460}
+05/26/2020 04:49:00 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 13, Progress: [006400/60000 (11%)], Loss: 0.081324, BatchTime:1.1271}
+05/25/2020 09:49:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 298.10379356016597, 'docker_mnist_3': 297.8777794, 'docker_mnist_4': 289.3231423813489, 'docker_mnist_5': 290.78262865721433}}
+05/26/2020 04:49:00 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 13, EpochTime:102.70468258857727}
+05/26/2020 04:49:01 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 11, Progress: [006400/60000 (11%)], Loss: 0.025075, BatchTime:1.0173}
+05/26/2020 04:49:01 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [003840/60000 (6%)], Loss: 0.061576, BatchTime:0.5062}
+05/26/2020 04:49:02 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 11, EpochTime:102.0437593460083}
+05/26/2020 04:49:06 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [001920/60000 (3%)], Loss: 0.143136, BatchTime:0.7071}
+05/26/2020 04:49:08 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 13, AverageLoss: 0.0518, Accuracy: 9836/10000 (98%)
+05/25/2020 09:49:08 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 270.58764308713694, 'docker_mnist_3': 311.7894403319502, 'docker_mnist_4': 340.45978181515403, 'docker_mnist_5': 258.6616715070774}}
+05/26/2020 04:49:09 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [000000/60000 (0%)], Loss: 0.062087, BatchTime:0.6646}
+05/26/2020 04:49:10 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [004480/60000 (7%)], Loss: 0.072434, BatchTime:1.2655}
+05/26/2020 04:49:10 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 11, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:49:11 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [000000/60000 (0%)], Loss: 0.082927, BatchTime:1.0008}
+05/25/2020 09:49:16 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 300.13145385512075, 'docker_mnist_3': 293.84216431893685, 'docker_mnist_4': 301.88590209999995, 'docker_mnist_5': 303.6492769}}
+05/26/2020 04:49:17 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [002560/60000 (4%)], Loss: 0.216380, BatchTime:1.3451}
+05/26/2020 04:49:19 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [000640/60000 (1%)], Loss: 0.050250, BatchTime:0.6125}
+05/26/2020 04:49:20 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [005120/60000 (9%)], Loss: 0.078823, BatchTime:1.1350}
+05/26/2020 04:49:22 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [000640/60000 (1%)], Loss: 0.067769, BatchTime:1.0972}
+05/25/2020 09:49:24 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 292.54247649999996, 'docker_mnist_3': 280.63760076348547, 'docker_mnist_4': 255.67819253955037, 'docker_mnist_5': 272.80808896210874}}
+05/26/2020 04:49:29 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [001280/60000 (2%)], Loss: 0.125686, BatchTime:1.0771}
+05/26/2020 04:49:29 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [003200/60000 (5%)], Loss: 0.112132, BatchTime:1.1569}
+05/26/2020 04:49:31 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [005760/60000 (10%)], Loss: 0.098314, BatchTime:0.9651}
+05/26/2020 04:49:31 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [001280/60000 (2%)], Loss: 0.025194, BatchTime:1.1988}
+05/25/2020 09:49:32 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 294.17308763969976, 'docker_mnist_3': 303.8046940082988, 'docker_mnist_4': 311.70650401993356, 'docker_mnist_5': 307.0079061}}
+05/26/2020 04:49:39 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [003840/60000 (6%)], Loss: 0.061576, BatchTime:1.1303}
+05/26/2020 04:49:39 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [001920/60000 (3%)], Loss: 0.061981, BatchTime:0.8386}
+05/25/2020 09:49:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 305.97885082157677, 'docker_mnist_3': 300.78925371142617, 'docker_mnist_4': 309.278761, 'docker_mnist_5': 287.70052507462685}}
+05/26/2020 04:49:41 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 12, Progress: [006400/60000 (11%)], Loss: 0.101032, BatchTime:1.2978}
+05/26/2020 04:49:41 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [001920/60000 (3%)], Loss: 0.143136, BatchTime:0.6903}
+05/26/2020 04:49:42 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 12, EpochTime:102.11616921424866}
+05/26/2020 04:49:48 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [004480/60000 (7%)], Loss: 0.072434, BatchTime:1.0924}
+05/25/2020 09:49:48 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 331.5972402664446, 'docker_mnist_3': 235.1127296, 'docker_mnist_4': 304.1232572614108, 'docker_mnist_5': 321.17773909999994}}
+05/26/2020 04:49:48 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [002560/60000 (4%)], Loss: 0.046799, BatchTime:0.5853}
+05/26/2020 04:49:50 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [002560/60000 (4%)], Loss: 0.216380, BatchTime:0.7785}
+05/26/2020 04:49:50 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 12, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:49:51 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [000000/60000 (0%)], Loss: 0.076536, BatchTime:0.7553}
+05/25/2020 09:49:56 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 309.82115370524565, 'docker_mnist_3': 297.77451112593826, 'docker_mnist_4': 301.2503447, 'docker_mnist_5': 297.22947129568104}}
+05/26/2020 04:49:59 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [005120/60000 (9%)], Loss: 0.078823, BatchTime:0.9228}
+05/26/2020 04:50:00 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [003200/60000 (5%)], Loss: 0.015794, BatchTime:0.9204}
+05/26/2020 04:50:00 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [003200/60000 (5%)], Loss: 0.112132, BatchTime:1.0392}
+05/26/2020 04:50:01 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [000640/60000 (1%)], Loss: 0.062582, BatchTime:1.0346}
+05/25/2020 09:50:04 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 296.9691691, 'docker_mnist_3': 278.22592169999996, 'docker_mnist_4': 319.0127797674419, 'docker_mnist_5': 287.6078157012448}}
+05/26/2020 04:50:09 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [005760/60000 (10%)], Loss: 0.098314, BatchTime:0.8311}
+05/26/2020 04:50:10 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [003840/60000 (6%)], Loss: 0.061576, BatchTime:1.1426}
+05/26/2020 04:50:11 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [003840/60000 (6%)], Loss: 0.033637, BatchTime:0.9344}
+05/25/2020 09:50:12 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 298.5215611, 'docker_mnist_3': 297.8227761659751, 'docker_mnist_4': 271.6647225, 'docker_mnist_5': 302.0500086970954}}
+05/26/2020 04:50:13 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [001280/60000 (2%)], Loss: 0.117026, BatchTime:1.0338}
+05/26/2020 04:50:19 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 12, Progress: [006400/60000 (11%)], Loss: 0.101032, BatchTime:1.0168}
+05/26/2020 04:50:20 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 12, EpochTime:101.99608993530273}
+05/25/2020 09:50:20 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 284.2847922064946, 'docker_mnist_3': 309.41573357676344, 'docker_mnist_4': 295.6101862, 'docker_mnist_5': 325.5734379}}
+05/26/2020 04:50:20 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [004480/60000 (7%)], Loss: 0.047004, BatchTime:0.9033}
+05/26/2020 04:50:21 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [004480/60000 (7%)], Loss: 0.072434, BatchTime:0.8004}
+05/26/2020 04:50:22 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [001920/60000 (3%)], Loss: 0.097063, BatchTime:0.7239}
+05/25/2020 09:50:28 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 300.49308328630707, 'docker_mnist_3': 318.703880730897, 'docker_mnist_4': 249.48393149999998, 'docker_mnist_5': 283.851347}}
+05/26/2020 04:50:28 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 12, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:50:29 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [000000/60000 (0%)], Loss: 0.076536, BatchTime:1.0031}
+05/26/2020 04:50:30 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [005120/60000 (9%)], Loss: 0.014237, BatchTime:0.7123}
+05/26/2020 04:50:30 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [002560/60000 (4%)], Loss: 0.077168, BatchTime:1.0263}
+05/26/2020 04:50:30 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [005120/60000 (9%)], Loss: 0.078823, BatchTime:0.8503}
+05/25/2020 09:50:36 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 327.39311240632804, 'docker_mnist_3': 305.1582097674418, 'docker_mnist_4': 293.4800727634855, 'docker_mnist_5': 294.02464139999995}}
+05/26/2020 04:50:39 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [003200/60000 (5%)], Loss: 0.256669, BatchTime:0.7480}
+05/26/2020 04:50:39 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [000640/60000 (1%)], Loss: 0.062582, BatchTime:0.7186}
+05/26/2020 04:50:40 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [005760/60000 (10%)], Loss: 0.098314, BatchTime:0.8584}
+05/26/2020 04:50:41 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [005760/60000 (10%)], Loss: 0.256435, BatchTime:1.1396}
+05/25/2020 09:50:44 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 319.1475241196013, 'docker_mnist_3': 288.904493, 'docker_mnist_4': 294.30415423813486, 'docker_mnist_5': 303.20217387823186}}
+05/26/2020 04:50:48 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [003840/60000 (6%)], Loss: 0.280143, BatchTime:0.4699}
+05/26/2020 04:50:49 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [001280/60000 (2%)], Loss: 0.117026, BatchTime:1.1399}
+05/26/2020 04:50:49 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 12, Progress: [006400/60000 (11%)], Loss: 0.101032, BatchTime:1.2565}
+05/26/2020 04:50:50 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 12, EpochTime:100.22906541824341}
+05/26/2020 04:50:52 AM  == {Docker: docker_mnist_2, LogType: 1, TrainEpoch: 14, Progress: [006400/60000 (11%)], Loss: 0.150820, BatchTime:0.8654}
+05/25/2020 09:50:52 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 279.86360912863074, 'docker_mnist_3': 310.7728833, 'docker_mnist_4': 314.46102039999994, 'docker_mnist_5': 283.1443722821577}}
+05/26/2020 04:50:53 AM  == {Docker: docker_mnist_2, LogType: 2, TrainEpoch: 14, EpochTime:104.83991146087646}
+05/26/2020 04:50:56 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [004480/60000 (7%)], Loss: 0.085502, BatchTime:0.8220}
+05/26/2020 04:50:57 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [001920/60000 (3%)], Loss: 0.097063, BatchTime:0.3896}
+05/26/2020 04:50:58 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 12, AverageLoss: 0.0522, Accuracy: 9835/10000 (98%)
+05/26/2020 04:50:59 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [000000/60000 (0%)], Loss: 0.076536, BatchTime:0.7914}
+05/25/2020 09:51:00 PM  == {LogType: 4, cpu_usage: {'docker_mnist_2': 251.46236673858925, 'docker_mnist_3': 326.76578180912867, 'docker_mnist_4': 313.2283589054726, 'docker_mnist_5': 302.1884574}}
+05/26/2020 04:51:01 AM  == {Docker: docker_mnist_2, LogType: 3, TrainEpoch: 14, AverageLoss: 0.0517, Accuracy: 9837/10000 (98%)
+05/26/2020 04:51:04 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [005120/60000 (9%)], Loss: 0.071266, BatchTime:0.4906}
+05/26/2020 04:51:04 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [002560/60000 (4%)], Loss: 0.077168, BatchTime:0.6308}
+05/26/2020 04:51:05 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [000640/60000 (1%)], Loss: 0.062582, BatchTime:0.5934}
+05/26/2020 04:51:08 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [005760/60000 (10%)], Loss: 0.019594, BatchTime:0.3098}
+05/26/2020 04:51:08 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [003200/60000 (5%)], Loss: 0.256669, BatchTime:0.3783}
+05/26/2020 04:51:10 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [001280/60000 (2%)], Loss: 0.117026, BatchTime:0.5534}
+05/25/2020 09:51:10 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 399.77734635684646, 'docker_mnist_4': 415.49624520000003, 'docker_mnist_5': 388.7092118272425}}
+05/26/2020 04:51:12 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 13, Progress: [006400/60000 (11%)], Loss: 0.081324, BatchTime:0.5007}
+05/26/2020 04:51:12 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [003840/60000 (6%)], Loss: 0.280143, BatchTime:0.2903}
+05/26/2020 04:51:12 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 13, EpochTime:81.82753467559814}
+05/26/2020 04:51:13 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [001920/60000 (3%)], Loss: 0.097063, BatchTime:0.3687}
+05/26/2020 04:51:15 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [004480/60000 (7%)], Loss: 0.085502, BatchTime:0.2707}
+05/26/2020 04:51:16 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [002560/60000 (4%)], Loss: 0.077168, BatchTime:0.2461}
+05/25/2020 09:51:16 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 327.56642610000006, 'docker_mnist_4': 459.91645438801, 'docker_mnist_5': 466.2556551243781}}
+05/26/2020 04:51:18 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [005120/60000 (9%)], Loss: 0.071266, BatchTime:0.3124}
+05/26/2020 04:51:18 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 13, AverageLoss: 0.0518, Accuracy: 9836/10000 (98%)
+05/26/2020 04:51:19 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [000000/60000 (0%)], Loss: 0.062087, BatchTime:0.2513}
+05/26/2020 04:51:21 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [003200/60000 (5%)], Loss: 0.256669, BatchTime:0.7018}
+05/26/2020 04:51:22 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [005760/60000 (10%)], Loss: 0.019594, BatchTime:0.4668}
+05/25/2020 09:51:22 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 371.54448578073095, 'docker_mnist_4': 387.18049170975814, 'docker_mnist_5': 400.77187209999994}}
+05/26/2020 04:51:23 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [000640/60000 (1%)], Loss: 0.050250, BatchTime:0.5023}
+05/26/2020 04:51:25 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [003840/60000 (6%)], Loss: 0.280143, BatchTime:0.4366}
+05/26/2020 04:51:25 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 13, Progress: [006400/60000 (11%)], Loss: 0.081324, BatchTime:0.3517}
+05/26/2020 04:51:26 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 13, EpochTime:57.519728660583496}
+05/26/2020 04:51:27 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [001280/60000 (2%)], Loss: 0.125686, BatchTime:0.4705}
+05/26/2020 04:51:28 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [004480/60000 (7%)], Loss: 0.085502, BatchTime:0.5626}
+05/25/2020 09:51:28 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 400.95885607973423, 'docker_mnist_4': 346.1255686, 'docker_mnist_5': 428.88825660000003}}
+05/26/2020 04:51:30 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [001920/60000 (3%)], Loss: 0.061981, BatchTime:0.1986}
+05/26/2020 04:51:32 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [005120/60000 (9%)], Loss: 0.071266, BatchTime:0.2909}
+05/26/2020 04:51:32 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 13, AverageLoss: 0.0518, Accuracy: 9836/10000 (98%)
+05/26/2020 04:51:32 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [000000/60000 (0%)], Loss: 0.062087, BatchTime:0.3893}
+05/26/2020 04:51:34 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [002560/60000 (4%)], Loss: 0.046799, BatchTime:0.4709}
+05/25/2020 09:51:34 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 434.1222813609958, 'docker_mnist_4': 357.45905619999996, 'docker_mnist_5': 383.8565211}}
+05/26/2020 04:51:37 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [005760/60000 (10%)], Loss: 0.019594, BatchTime:0.2354}
+05/26/2020 04:51:37 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [000640/60000 (1%)], Loss: 0.050250, BatchTime:0.4038}
+05/26/2020 04:51:38 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [003200/60000 (5%)], Loss: 0.015794, BatchTime:0.5653}
+05/25/2020 09:51:40 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 420.5201455813953, 'docker_mnist_4': 411.40067469999997, 'docker_mnist_5': 387.6664887634854}}
+05/26/2020 04:51:41 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 13, Progress: [006400/60000 (11%)], Loss: 0.081324, BatchTime:0.5474}
+05/26/2020 04:51:41 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [001280/60000 (2%)], Loss: 0.125686, BatchTime:0.4177}
+05/26/2020 04:51:41 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 13, EpochTime:43.28854489326477}
+05/26/2020 04:51:42 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [003840/60000 (6%)], Loss: 0.033637, BatchTime:0.4521}
+05/26/2020 04:51:44 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [001920/60000 (3%)], Loss: 0.061981, BatchTime:0.1928}
+05/26/2020 04:51:45 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [004480/60000 (7%)], Loss: 0.047004, BatchTime:0.3244}
+05/25/2020 09:51:46 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 429.72932937447877, 'docker_mnist_4': 421.3777548290241, 'docker_mnist_5': 352.15902530000005}}
+05/26/2020 04:51:47 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 13, AverageLoss: 0.0518, Accuracy: 9836/10000 (98%)
+05/26/2020 04:51:48 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [002560/60000 (4%)], Loss: 0.046799, BatchTime:0.2440}
+05/26/2020 04:51:48 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [000000/60000 (0%)], Loss: 0.062087, BatchTime:0.3117}
+05/26/2020 04:51:49 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [005120/60000 (9%)], Loss: 0.014237, BatchTime:0.5562}
+05/26/2020 04:51:52 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [000640/60000 (1%)], Loss: 0.050250, BatchTime:0.4426}
+05/26/2020 04:51:52 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [003200/60000 (5%)], Loss: 0.015794, BatchTime:0.3278}
+05/25/2020 09:51:52 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 368.6874253731343, 'docker_mnist_4': 385.3865904920767, 'docker_mnist_5': 370.1139118598833}}
+05/26/2020 04:51:54 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [005760/60000 (10%)], Loss: 0.256435, BatchTime:0.7311}
+05/26/2020 04:51:56 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [001280/60000 (2%)], Loss: 0.125686, BatchTime:0.3660}
+05/26/2020 04:51:56 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [003840/60000 (6%)], Loss: 0.033637, BatchTime:0.3639}
+05/26/2020 04:51:58 AM  == {Docker: docker_mnist_3, LogType: 1, TrainEpoch: 14, Progress: [006400/60000 (11%)], Loss: 0.150820, BatchTime:0.5459}
+05/26/2020 04:51:58 AM  == {Docker: docker_mnist_3, LogType: 2, TrainEpoch: 14, EpochTime:39.69179391860962}
+05/25/2020 09:51:58 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 424.54775390000003, 'docker_mnist_4': 413.23994642201836, 'docker_mnist_5': 418.4688010954357}}
+05/26/2020 04:52:00 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [001920/60000 (3%)], Loss: 0.061981, BatchTime:0.2334}
+05/26/2020 04:52:00 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [004480/60000 (7%)], Loss: 0.047004, BatchTime:0.3791}
+05/26/2020 04:52:02 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [002560/60000 (4%)], Loss: 0.046799, BatchTime:0.3965}
+05/26/2020 04:52:03 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [005120/60000 (9%)], Loss: 0.014237, BatchTime:0.3600}
+05/26/2020 04:52:04 AM  == {Docker: docker_mnist_3, LogType: 3, TrainEpoch: 14, AverageLoss: 0.0517, Accuracy: 9837/10000 (98%)
+05/25/2020 09:52:04 PM  == {LogType: 4, cpu_usage: {'docker_mnist_3': 325.00144620000003, 'docker_mnist_4': 439.3774194, 'docker_mnist_5': 391.9040000333056}}
+05/26/2020 04:52:05 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [003200/60000 (5%)], Loss: 0.015794, BatchTime:0.1550}
+05/26/2020 04:52:05 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [005760/60000 (10%)], Loss: 0.256435, BatchTime:0.0828}
+05/26/2020 04:52:06 AM  == {Docker: docker_mnist_4, LogType: 1, TrainEpoch: 14, Progress: [006400/60000 (11%)], Loss: 0.150820, BatchTime:0.0946}
+05/26/2020 04:52:06 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [003840/60000 (6%)], Loss: 0.033637, BatchTime:0.1019}
+05/26/2020 04:52:07 AM  == {Docker: docker_mnist_4, LogType: 2, TrainEpoch: 14, EpochTime:34.54240965843201}
+05/26/2020 04:52:07 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [004480/60000 (7%)], Loss: 0.047004, BatchTime:0.0717}
+05/26/2020 04:52:08 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [005120/60000 (9%)], Loss: 0.014237, BatchTime:0.0458}
+05/26/2020 04:52:09 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [005760/60000 (10%)], Loss: 0.256435, BatchTime:0.0457}
+05/26/2020 04:52:10 AM  == {Docker: docker_mnist_5, LogType: 1, TrainEpoch: 14, Progress: [006400/60000 (11%)], Loss: 0.150820, BatchTime:0.1204}
+05/26/2020 04:52:10 AM  == {Docker: docker_mnist_5, LogType: 2, TrainEpoch: 14, EpochTime:22.65635371208191}
+05/26/2020 04:52:11 AM  == {Docker: docker_mnist_4, LogType: 3, TrainEpoch: 14, AverageLoss: 0.0517, Accuracy: 9837/10000 (98%)
+05/25/2020 09:52:12 PM  == {LogType: 4, cpu_usage: {'docker_mnist_4': 416.72819410491263, 'docker_mnist_5': 452.7895583084577}}
+05/26/2020 04:52:14 AM  == {Docker: docker_mnist_5, LogType: 3, TrainEpoch: 14, AverageLoss: 0.0517, Accuracy: 9837/10000 (98%)
+05/25/2020 09:52:18 PM  == {LogType: 4, cpu_usage: {}}

@@ -2,6 +2,21 @@
 import docker 
 import json
 import argparse
+import logging
+import time
+from operator import itemgetter
+import inspect
+
+import os
+import psutil
+
+logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', filename='logs/main.log', level=logging.INFO)
+
+print("Running at nice value:", psutil.Process(os.getpid()).nice())
+# psutil.Process(os.getpid()).nice(-20)
+# print("Changed nice value to:", psutil.Process(os.getpid()).nice())
+
+# sudo nice -n -20 python3 store_docker_stats.py
 
 def normalize(dictionary):
 
@@ -35,16 +50,50 @@ def calculate_cpu_percent(d):
 
 client = docker.APIClient(base_url='unix://var/run/docker.sock')
 # client = docker.Client(base_url='unix://var/run/docker.sock')
-# ids = args.all and map(itemgetter('Id'), client.containers(quiet=True)) or args.containers
-ids=['docker_mnist_9']
 
-stats = {c: client.stats(c, stream=0) for c in ids}
-# stats = args.normalize and normalize(stats) or stats
-print (json.dumps(stats))
+while(1):
 
-print("\n\n\n cpu_usage:", calculate_cpu_percent(stats[ids[0]]))
-print("\n\n\n cpu_usage:", stats[ids[0]]['cpu_stats']['throttling_data'])
-print("\n\n\n cpu_usage:", stats[ids[0]]['precpu_stats']['throttling_data'])
+    # ids = map(itemgetter('Id'), client.containers(quiet=True))
+    # container_info = map(itemgetter('Names'), client_on_.containers(quiet=True))
+    info_on_container = client.containers()
+    # print(client.containers())
+    # print("\n\n\n")
+    # time.sleep(3)
+    # continue
+    # print(containers)
+    # print ("ids:", dir(ids))
+    # print(inspect.getmembers(ids))
+    # print(ids.names)
+    container_names = [c['Names'][0].split('/')[1] for c in reversed(info_on_container)]
+    # print ("container_names:", container_names)
+    if container_names:
+        try:
+            stats = {container_name: client.stats(container_name, stream=0) for container_name in container_names}
+        except Exception:
+            continue
+        # stats = args.normalize and normalize(stats) or stats
+        # print (json.dumps(stats))
+
+
+        container_cpu_usage = {}
+        for container_name in container_names:
+            # begin_time = time.time()
+            try:
+                container_cpu_usage[container_name] = calculate_cpu_percent(stats[container_name])
+            except Exception:
+                continue
+            # print("\n\n\n cpu_usage:", calculate_cpu_percent(stats[container_name]))
+            # print("end_time: ", time.time() - begin_time)
+        # print("\n\n\n cpu_usage:", stats[ids[0]]['cpu_stats']['throttling_data'])
+        # print("\n\n\n cpu_usage:", stats[ids[0]]['precpu_stats']['throttling_data'])
+        logging.info(' == {{"LogType": "{}", "cpu_usage": "{}"}}'.format( 4, container_cpu_usage))
+    # print("sleep started")
+    # time.sleep(1)
+
+
+# [
+# {'Id': '0b643313ec38333ffcebeef90ee656ee88ba196118dd9165c55af181e645f1f6', 'Names': ['/docker_mnist_1'], 'Image': 'pytorch/pytorch', 'ImageID': 'sha256:a10c611c2731b3b07fad270deb787d836f658285f70fdaed86a9ba383ac6baab', 'Command': 'python main.py --configFileName config/app1_config.json', 'Created': 1590455406, 'Ports': [], 'Labels': {'com.nvidia.volumes.needed': 'nvidia_driver'}, 'State': 'running', 'Status': 'Up About a minute', 'HostConfig': {'NetworkMode': 'default'}, 'NetworkSettings': {'Networks': {'bridge': {'IPAMConfig': None, 'Links': None, 'Aliases': None, 'NetworkID': '2c9862043729ef77694462d0055c4aea9d558e9266047c566405b457b76720ea', 'EndpointID': '84cee57981f226b2d3d48a43696344dba7f34b5d941d1c6f520095635f14e6d8', 'Gateway': '172.17.0.1', 'IPAddress': '172.17.0.2', 'IPPrefixLen': 16, 'IPv6Gateway': '', 'GlobalIPv6Address': '', 'GlobalIPv6PrefixLen': 0, 'MacAddress': '02:42:ac:11:00:02', 'DriverOpts': None}}}, 'Mounts': [{'Type': 'bind', 'Source': '/home/abhijay/CS_533_Project', 'Destination': '/workspace', 'Mode': '', 'RW': True, 'Propagation': 'rprivate'}]}
+# ]
 
 
 

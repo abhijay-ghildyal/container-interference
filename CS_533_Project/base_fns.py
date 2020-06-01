@@ -27,16 +27,16 @@ def train(config, model, device, train_loader, optimizer, epoch, log_interval, l
             # print('Train Epoch: {} [{:06d}/{} ({:.0f}%)]\tLoss: {:.6f}\tBatch Time:{:.4f}'.format(
             #     epoch, batch_idx * len(data), len(train_loader.dataset),
             #     100. * batch_idx / len(train_loader), loss.item(), time.time()-batchStartTime))
-            logging.info('Docker: {}, Train Epoch: {} [{:06d}/{} ({:.0f}%)]\tLoss: {:.6f}\tBatch Time:{:.4f}'.format(config['docker_name'],
+            logging.info(' == {{"Docker": "{}", "LogType": "{}", "TrainEpoch": "{}", "Progress": "[{:06d}/{} ({:.0f}%)]", "Loss": "{:.6f}", "BatchTime":"{:.4f}"}}'.format(config['docker_name'], 1,
                 epoch, batch_idx * len(data), len(train_loader.dataset),
                 100. * batch_idx / len(train_loader), loss.item(), time.time()-batchStartTime))
 
         if batch_idx > iterations:
             break
 
-    print('Epoch Time:{}'.format( time.time()-epochStartTime))
+    logging.info(' == {{"Docker": "{}", "LogType": "{}", "TrainEpoch": "{}", "EpochTime":"{}"}}'.format( config['docker_name'], 2, epoch, time.time()-epochStartTime))
 
-def test(model, device, test_loader):
+def test(config, epoch, model, device, test_loader, logging):
     model.eval()
     test_loss = 0
     correct = 0
@@ -50,9 +50,11 @@ def test(model, device, test_loader):
 
     test_loss /= len(test_loader.dataset)
 
-    print('\nTest set: Average loss: {:.4f}, Accuracy: {}/{} ({:.0f}%)\n'.format(
-        test_loss, correct, len(test_loader.dataset),
-        100. * correct / len(test_loader.dataset)))
+    logging.info(' == {{"Docker": "{}", "LogType": "{}", "TrainEpoch": "{}", "AverageLoss": "{:.4f}", "Accuracy": "{}/{} ({:.0f}%)"}}'.format( config['docker_name'], 3, epoch, test_loss, correct, len(test_loader.dataset), 100. * correct / len(test_loader.dataset)))
+
+    # print('\nTest set: Average loss: {:.4f}, Accuracy: {}/{} ({:.0f}%)\n'.format(
+    #     test_loss, correct, len(test_loader.dataset),
+    #     100. * correct / len(test_loader.dataset)))
 
 def save_network(network, path, network_label, epoch_label):
         save_filename = '%s_net_%s.pth' % (epoch_label, network_label)

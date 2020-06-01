@@ -1,3 +1,10 @@
 docker build -t custom_pytorch_docker .
 
 bash run_mnist.sh config/app1_config.json
+
+python store_docker_stats.py
+
+bash run_experiment.sh
+
+
+sudo systemctl restart docker
